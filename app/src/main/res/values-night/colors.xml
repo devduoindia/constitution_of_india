@@ -16,4 +16,8 @@
     <!-- Text colors -->
     <color name="text_primary">#E1E1E1</color>
     <color name="text_secondary">#A0A0A0</color>
+
+    <!-- Highlight colors for dark mode (using lower opacity or darker shades) -->
+    <color name="highlight_tts">#66FFFF00</color>
+    <color name="highlight_user">#6600FFFF</color>
 </resources>
