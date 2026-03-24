@@ -21,6 +21,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import androidx.core.widget.NestedScrollView;
 
 import com.constitution.india.R;
@@ -172,9 +173,10 @@ public class ArticleDetailActivity extends AppCompatActivity {
 
     private void highlightTtsText(int start, int end) {
         String titleText = tvTitle.getText().toString();
+        int highlightColor = ContextCompat.getColor(this, R.color.highlight_tts);
         if (start < titleText.length()) {
             SpannableString spannable = new SpannableString(titleText);
-            spannable.setSpan(new BackgroundColorSpan(Color.YELLOW), start, Math.min(end, titleText.length()), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+            spannable.setSpan(new BackgroundColorSpan(highlightColor), start, Math.min(end, titleText.length()), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
             tvTitle.setText(spannable);
         } else {
             // Offset for content text (title + ". ")
@@ -183,7 +185,7 @@ public class ArticleDetailActivity extends AppCompatActivity {
             int contentEnd = end - offset;
             if (contentStart >= 0) {
                 SpannableString spannable = new SpannableString(tvContent.getText().toString());
-                spannable.setSpan(new BackgroundColorSpan(Color.YELLOW), contentStart, Math.min(contentEnd, spannable.length()), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                spannable.setSpan(new BackgroundColorSpan(highlightColor), contentStart, Math.min(contentEnd, spannable.length()), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                 tvContent.setText(spannable);
                 applySavedAnnotations(); // Restore user annotations as well
             }
@@ -255,6 +257,8 @@ public class ArticleDetailActivity extends AppCompatActivity {
         String contentStr = tvContent.getText().toString();
         SpannableString spannable = new SpannableString(contentStr);
         
+        int highlightColor = ContextCompat.getColor(this, R.color.highlight_user);
+
         // Apply Highlights
         Set<String> highlights = prefs.getHighlights(currentArticle.getId());
         for (String h : highlights) {
@@ -263,7 +267,7 @@ public class ArticleDetailActivity extends AppCompatActivity {
                 int start = Integer.parseInt(parts[0]);
                 int end = Integer.parseInt(parts[1]);
                 if (start >= 0 && start < spannable.length() && end > start && end <= spannable.length()) {
-                    spannable.setSpan(new BackgroundColorSpan(Color.CYAN), start, end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                    spannable.setSpan(new BackgroundColorSpan(highlightColor), start, end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                 }
             }
         }
@@ -417,28 +421,11 @@ public class ArticleDetailActivity extends AppCompatActivity {
         if (wasBookmarked) {
             prefs.removeBookmark(currentArticle.getId());
             ivBookmark.setImageResource(R.drawable.ic_bookmark_outline);
-            Toast.makeText(this, prefs.isEnglish() ? "Bookmark removed" : "बुकमार्क हटाया", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Bookmark removed", Toast.LENGTH_SHORT).show();
         } else {
             prefs.addBookmark(currentArticle.getId());
             ivBookmark.setImageResource(R.drawable.ic_bookmark_filled);
-            Toast.makeText(this, prefs.isEnglish() ? "Bookmarked!" : "बुकमार्क किया!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Bookmarked", Toast.LENGTH_SHORT).show();
         }
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        if (isSpeaking) {
-            ttsManager.stop();
-            ivTts.setImageResource(R.drawable.ic_play_arrow);
-            isSpeaking = false;
-            isPaused = true;
-        }
-    }
-
-    @Override
-    public void onBackPressed() {
-        super.onBackPressed();
-        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
     }
 }

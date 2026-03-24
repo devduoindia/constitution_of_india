@@ -31,6 +31,10 @@
     <color name="text_secondary">#6B7280</color>
     <color name="white">#FFFFFF</color>
 
+    <!-- Highlight colors -->
+    <color name="highlight_tts">#FFF59D</color>
+    <color name="highlight_user">#B2EBF2</color>
+
     <!-- Category color strips -->
     <color name="cat_orange">#F97316</color>
     <color name="cat_blue">#3B82F6</color>
