@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors for dark mode -->
+    <color name="primary">#1B263B</color>
+    <color name="primary_dark">#0D1B2A</color>
+    <color name="nav_arrow">#FFFFFF</color>
+
+    <!-- Theme-aware labels -->
+    <color name="article_label">#D4AF37</color>
+
+    <!-- Background colors -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="divider">#333333</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#E1E1E1</color>
+    <color name="text_secondary">#A0A0A0</color>
+</resources>

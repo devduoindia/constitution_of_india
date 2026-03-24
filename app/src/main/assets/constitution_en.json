@@ -1,0 +1,718 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-26",
+  "categories": [
+    {
+      "id": "preamble",
+      "titleEn": "Preamble",
+      "titleHi": "प्रस्तावना",
+      "descriptionEn": "The introduction and soul of the Constitution",
+      "descriptionHi": "संविधान की आत्मा और परिचय",
+      "partNumber": "",
+      "iconName": "ic_preamble",
+      "articles": [
+        {
+          "id": "preamble_1",
+          "number": "",
+          "titleEn": "Preamble of India",
+          "titleHi": "भारत की प्रस्तावना",
+          "contentEn": "WE, THE PEOPLE OF INDIA, having decided to create India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC and to secure for all its citizens:\n\nJUSTICE — social, economic and political;\n\nLIBERTY — of thought, expression, belief, faith and worship;\n\nEQUALITY — of status and opportunity; and to promote among them all\n\nFRATERNITY — assuring the dignity of the individual and the unity and integrity of the Nation;\n\nIN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n\nIn simple words: This is the opening statement of our Constitution. It tells us the purpose and ideals on which our country is built. India is a country where people govern themselves (democratic), no other country controls us (sovereign), religion is separate from government (secular), wealth is shared fairly (socialist), and the head of state is elected (republic). The Constitution promises justice, freedom, equality, and unity to every Indian citizen.",
+          "contentHi": "हम, भारत के लोग, भारत को एक सम्पूर्ण प्रभुत्व सम्पन्न, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य बनाने के लिए और उसके समस्त नागरिकों को:\n\nसामाजिक, आर्थिक और राजनीतिक न्याय;\nविचार, अभिव्यक्ति, विश्वास, धर्म और उपासना की स्वतंत्रता;\nप्रतिष्ठा और अवसर की समता;\nप्राप्त कराने के लिए तथा उन सब में व्यक्ति की गरिमा और राष्ट्र की एकता और अखण्डता सुनिश्चित करने वाली बंधुता बढ़ाने के लिए;\n\nदृढ़ संकल्प होकर अपनी इस संविधान सभा में आज तारीख 26 नवम्बर 1949 ई. को एतद् द्वारा इस संविधान को अंगीकृत, अधिनियमित और आत्मार्पित करते हैं।\n\nसरल शब्दों में: यह हमारे संविधान की शुरुआत है। इसमें बताया गया है कि हमारा देश किन आदर्शों पर बना है। भारत एक ऐसा देश है जहाँ लोग खुद शासन करते हैं, किसी दूसरे देश का हम पर नियंत्रण नहीं है, धर्म और सरकार अलग हैं, संपत्ति का उचित वितरण होता है और देश का प्रमुख चुना हुआ होता है।"
+        }
+      ]
+    },
+    {
+      "id": "part1",
+      "titleEn": "The Union and its Territory",
+      "titleHi": "संघ और उसका राज्यक्षेत्र",
+      "descriptionEn": "Articles 1–4 — Defines India as a Union of States",
+      "descriptionHi": "अनुच्छेद 1–4 — भारत की परिभाषा और राज्यों का संघ",
+      "partNumber": "I",
+      "iconName": "ic_union",
+      "articles": [
+        {
+          "id": "art_1",
+          "number": "1",
+          "titleEn": "Name and Territory of the Union",
+          "titleHi": "संघ का नाम और राज्यक्षेत्र",
+          "contentEn": "India, that is Bharat, shall be a Union of States.\n\nThe States and the territories thereof shall be as specified in the First Schedule.\n\nThe territory of India shall include the territories of the States, the Union territories, and other territories that may be acquired.\n\nIn simple words: Our country's official name is 'India, that is Bharat.' India is made up of states joined together as a Union. This is important because it means that states cannot leave India on their own — the Union is stronger than any individual state.",
+          "contentHi": "भारत, अर्थात् इंडिया, राज्यों का एक संघ होगा।\n\nराज्य और उनके राज्यक्षेत्र वे होंगे जो पहली अनुसूची में विनिर्दिष्ट हैं।\n\nभारत के राज्यक्षेत्र में राज्यों के राज्यक्षेत्र, संघ राज्यक्षेत्र और अर्जित किए जाने वाले अन्य राज्यक्षेत्र सम्मिलित होंगे।\n\nसरल शब्दों में: हमारे देश का आधिकारिक नाम 'भारत, अर्थात् इंडिया' है। भारत राज्यों का एक संघ है। इसका मतलब है कि कोई भी राज्य अकेले भारत से अलग नहीं हो सकता।"
+        },
+        {
+          "id": "art_2",
+          "number": "2",
+          "titleEn": "Admission or Establishment of New States",
+          "titleHi": "नए राज्यों का प्रवेश या स्थापना",
+          "contentEn": "Parliament may, by law, admit into the Union or establish new States on such terms and conditions as it thinks fit.\n\nIn simple words: Parliament can bring new states into India or create new states as it sees fit. This power has been used in the past when Sikkim joined India in 1975.",
+          "contentHi": "संसद विधि द्वारा ऐसे निबंधनों और शर्तों पर जो वह ठीक समझे, संघ में नए राज्यों को प्रवेश दे सकती है या नए राज्य स्थापित कर सकती है।\n\nसरल शब्दों में: संसद नए राज्यों को भारत में शामिल कर सकती है या नए राज्य बना सकती है। इस शक्ति का उपयोग तब किया गया जब 1975 में सिक्किम भारत में शामिल हुआ।"
+        },
+        {
+          "id": "art_3",
+          "number": "3",
+          "titleEn": "Formation of New States and Changes in Boundaries",
+          "titleHi": "नए राज्यों का निर्माण और वर्तमान राज्यों के क्षेत्र आदि में परिवर्तन",
+          "contentEn": "Parliament may by law form a new State by separation of territory from any State, by uniting two or more States, by uniting territories of two or more States, or by uniting any territory with a part of any State. Parliament can also increase or decrease the area, or alter the name of any State.\n\nIn simple words: Parliament can reorganise states — split them, merge them, or rename them. For example, Uttarakhand was carved out of Uttar Pradesh in 2000 and Telangana was created from Andhra Pradesh in 2014.",
+          "contentHi": "संसद विधि द्वारा किसी राज्य में से उसका राज्यक्षेत्र अलग करके अथवा दो या अधिक राज्यों को या राज्यों के भागों को मिलाकर नया राज्य बना सकती है। संसद किसी राज्य का क्षेत्र बढ़ा या घटा सकती है और उसका नाम बदल सकती है।\n\nसरल शब्दों में: संसद राज्यों को पुनर्गठित कर सकती है — उन्हें बाँट सकती है, जोड़ सकती है या उनका नाम बदल सकती है। उदाहरण के लिए, 2000 में उत्तराखंड उत्तर प्रदेश से अलग हुआ और 2014 में तेलंगाना आंध्र प्रदेश से बना।"
+        },
+        {
+          "id": "art_4",
+          "number": "4",
+          "titleEn": "Laws Made under Articles 2 and 3",
+          "titleHi": "अनुच्छेद 2 और 3 के अधीन बनाई गई विधियाँ",
+          "contentEn": "Any law referred to in Articles 2 and 3 shall contain the necessary amendments to the First and Fourth Schedules of the Constitution. Such a law shall not be deemed to be an amendment to the Constitution under Article 368.\n\nIn simple words: When Parliament creates new states or reorganises existing ones, it must also update the official list of states in the Constitution. Importantly, these changes do NOT require the full constitutional amendment process — a simple majority in Parliament is enough.",
+          "contentHi": "अनुच्छेद 2 और 3 में निर्दिष्ट किसी विधि में पहली और चौथी अनुसूची में आवश्यक संशोधन होंगे। ऐसी विधि को अनुच्छेद 368 के अधीन संविधान का संशोधन नहीं माना जाएगा।\n\nसरल शब्दों में: जब संसद नए राज्य बनाती है तो उसे संविधान की राज्यों की सूची भी अपडेट करनी होती है। इसके लिए पूरी संवैधानिक संशोधन प्रक्रिया की ज़रूरत नहीं होती।"
+        }
+      ]
+    },
+    {
+      "id": "part2",
+      "titleEn": "Citizenship",
+      "titleHi": "नागरिकता",
+      "descriptionEn": "Articles 5–11 — Who is a citizen of India",
+      "descriptionHi": "अनुच्छेद 5–11 — भारत का नागरिक कौन है",
+      "partNumber": "II",
+      "iconName": "ic_citizenship",
+      "articles": [
+        {
+          "id": "art_5",
+          "number": "5",
+          "titleEn": "Citizenship at Commencement",
+          "titleHi": "संविधान के प्रारंभ पर नागरिकता",
+          "contentEn": "At the commencement of this Constitution, every person who has his domicile in India and (a) was born in India; or (b) either of whose parents was born in India; or (c) who has been ordinarily resident in India for not less than five years immediately preceding such commencement shall be a citizen of India.\n\nIn simple words: When the Constitution came into effect on 26 January 1950, anyone who was born in India, whose parents were born in India, or who had lived in India for at least 5 years was automatically made a citizen of India.",
+          "contentHi": "इस संविधान के प्रारंभ पर, प्रत्येक व्यक्ति जो भारत में अधिवासित है और (क) जो भारत में जन्मा है, या (ख) जिसके माता-पिता में से कोई भारत में जन्मा है, या (ग) जो इस संविधान के प्रारंभ से ठीक पहले कम से कम पाँच वर्षों से भारत में सामान्यतः निवासी रहा है — भारत का नागरिक होगा।\n\nसरल शब्दों में: 26 जनवरी 1950 को जो लोग भारत में पैदा हुए थे, जिनके माता-पिता भारत में पैदा हुए थे, या जो कम से कम 5 साल से भारत में रह रहे थे, वे स्वतः भारत के नागरिक बन गए।"
+        },
+        {
+          "id": "art_6",
+          "number": "6",
+          "titleEn": "Citizenship of Persons Who Migrated from Pakistan",
+          "titleHi": "पाकिस्तान से आए व्यक्तियों की नागरिकता",
+          "contentEn": "Despite Article 5, a person who has migrated to India from Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if they or their parents or grandparents were born in undivided India AND they (a) migrated before July 19, 1948, and have been ordinarily resident since; or (b) migrated on or after July 19, 1948, and registered as a citizen of India.\n\nIn simple words: People who came from Pakistan to India during the 1947 Partition and met certain conditions were given Indian citizenship. This was important because millions of people had to move between the two countries during Partition.",
+          "contentHi": "अनुच्छेद 5 के होते हुए भी, जो व्यक्ति पाकिस्तान से भारत प्रवास करके आया है, उसे इस संविधान के प्रारंभ पर भारत का नागरिक माना जाएगा यदि वह स्वयं या उसके माता-पिता या दादा-दादी/नाना-नानी अविभाजित भारत में जन्मे थे और उसने 19 जुलाई 1948 से पहले प्रवास किया था या बाद में आकर नागरिकता के लिए पंजीकरण कराया था।\n\nसरल शब्दों में: 1947 के विभाजन में पाकिस्तान से भारत आए लोगों को भारतीय नागरिकता दी गई।"
+        },
+        {
+          "id": "art_9",
+          "number": "9",
+          "titleEn": "No Dual Citizenship",
+          "titleHi": "दोहरी नागरिकता का निषेध",
+          "contentEn": "A person shall not be a citizen of India if they voluntarily acquire the citizenship of a foreign state.\n\nIn simple words: If you choose to become a citizen of another country, you automatically lose your Indian citizenship. India does not allow dual citizenship. However, Overseas Citizens of India (OCI) is a special status — not full citizenship — available to people of Indian origin living abroad.",
+          "contentHi": "कोई व्यक्ति भारत का नागरिक नहीं होगा यदि उसने स्वेच्छा से किसी विदेशी राज्य की नागरिकता अर्जित कर ली हो।\n\nसरल शब्दों में: अगर आप किसी दूसरे देश की नागरिकता लेते हैं, तो आपकी भारतीय नागरिकता खत्म हो जाती है। भारत में दोहरी नागरिकता की अनुमति नहीं है।"
+        },
+        {
+          "id": "art_11",
+          "number": "11",
+          "titleEn": "Parliament to Regulate Citizenship",
+          "titleHi": "नागरिकता के संबंध में संसद की शक्ति",
+          "contentEn": "Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.\n\nIn simple words: Parliament has the power to make laws about citizenship — who can become a citizen, how to lose citizenship, etc. The Citizenship Act, 1955 was passed under this power and has been amended several times.",
+          "contentHi": "इस भाग के पूर्ववर्ती उपबंधों की कोई बात संसद की उस शक्ति को कम नहीं करेगी जो नागरिकता के अर्जन और समाप्ति के संबंध में कोई उपबंध करने की है।\n\nसरल शब्दों में: संसद नागरिकता के बारे में कानून बना सकती है। 1955 का नागरिकता अधिनियम इसी शक्ति के तहत बनाया गया था।"
+        }
+      ]
+    },
+    {
+      "id": "part3",
+      "titleEn": "Fundamental Rights",
+      "titleHi": "मूल अधिकार",
+      "descriptionEn": "Articles 12–35 — Core rights guaranteed to every citizen",
+      "descriptionHi": "अनुच्छेद 12–35 — हर नागरिक को मिले मूल अधिकार",
+      "partNumber": "III",
+      "iconName": "ic_rights",
+      "articles": [
+        {
+          "id": "art_12",
+          "number": "12",
+          "titleEn": "Definition of State",
+          "titleHi": "राज्य की परिभाषा",
+          "contentEn": "In this Part, unless the context otherwise requires, 'the State' includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.\n\nIn simple words: 'State' in Fundamental Rights doesn't just mean state governments. It includes the Central Government, Parliament, state legislatures, and even local bodies like municipalities and panchayats. Fundamental Rights protect you against ALL these entities.",
+          "contentHi": "इस भाग में, 'राज्य' में भारत की सरकार और संसद तथा प्रत्येक राज्य की सरकार और विधानमंडल और भारत के राज्यक्षेत्र के भीतर या भारत सरकार के नियंत्रण के अधीन सभी स्थानीय या अन्य प्राधिकारी सम्मिलित हैं।\n\nसरल शब्दों में: मूल अधिकारों में 'राज्य' का मतलब सिर्फ राज्य सरकार नहीं है। इसमें केंद्र सरकार, संसद, राज्य विधानमंडल और नगर पालिकाएं जैसी स्थानीय संस्थाएं भी शामिल हैं।"
+        },
+        {
+          "id": "art_13",
+          "number": "13",
+          "titleEn": "Laws Inconsistent with Fundamental Rights",
+          "titleHi": "मूल अधिकारों से असंगत विधियाँ",
+          "contentEn": "All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void.\n\nThe State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention shall be void.\n\nIn simple words: No law in India can violate your Fundamental Rights. If any existing or new law goes against Fundamental Rights, the courts can declare it invalid. This is the legal weapon that makes Fundamental Rights truly powerful.",
+          "contentHi": "इस संविधान के प्रारंभ से ठीक पहले भारत के राज्यक्षेत्र में लागू सभी विधियाँ इस भाग के उपबंधों से असंगत होने की सीमा तक शून्य होंगी।\n\nराज्य ऐसी कोई विधि नहीं बनाएगा जो इस भाग द्वारा प्रदत्त अधिकारों को छीनती या न्यून करती हो।\n\nसरल शब्दों में: भारत में कोई भी कानून आपके मूल अधिकारों का उल्लंघन नहीं कर सकता। यदि कोई कानून मूल अधिकारों के विरुद्ध है, तो न्यायालय उसे अवैध घोषित कर सकते हैं।"
+        },
+        {
+          "id": "art_14",
+          "number": "14",
+          "titleEn": "Equality Before Law",
+          "titleHi": "विधि के समक्ष समता",
+          "contentEn": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.\n\nIn simple words: The government must treat everyone equally under the law. A rich person and a poor person must be treated the same way by the law. No one is above the law — not even powerful politicians, police officers, or judges. This is called the 'Rule of Law.'",
+          "contentHi": "राज्य, भारत के राज्यक्षेत्र में किसी व्यक्ति को विधि के समक्ष समता से या विधियों के समान संरक्षण से वंचित नहीं करेगा।\n\nसरल शब्दों में: सरकार को कानून के सामने सभी के साथ समान व्यवहार करना होगा। अमीर हो या गरीब, सभी के लिए एक ही कानून है। कोई भी कानून से ऊपर नहीं है।"
+        },
+        {
+          "id": "art_15",
+          "number": "15",
+          "titleEn": "Prohibition of Discrimination",
+          "titleHi": "धर्म, मूलवंश, जाति, लिंग या जन्मस्थान के आधार पर भेदभाव का प्रतिषेध",
+          "contentEn": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.\n\nNo citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to access to shops, public restaurants, hotels and places of public entertainment; or the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.\n\nHowever, nothing in this article shall prevent the State from making any special provision for women, children, or socially and educationally backward classes or Scheduled Castes and Scheduled Tribes.\n\nIn simple words: No one should be denied entry to public places or face discrimination because of their religion, caste, gender, or birthplace. The government can still make special laws to help women, children, and disadvantaged communities.",
+          "contentHi": "राज्य, किसी नागरिक के विरुद्ध केवल धर्म, मूलवंश, जाति, लिंग, जन्मस्थान या इनमें से किसी के आधार पर कोई विभेद नहीं करेगा।\n\nकिसी भी नागरिक को केवल धर्म, मूलवंश, जाति, लिंग, जन्मस्थान के आधार पर दुकानों, सार्वजनिक भोजनालयों, होटलों और सार्वजनिक मनोरंजन स्थलों में प्रवेश या सरकारी धन से बने कुओं, तालाबों, स्नान घाटों, सड़कों के उपयोग के संबंध में कोई अयोग्यता, दायित्व, निर्बंधन या शर्त नहीं होगी।\n\nसरल शब्दों में: धर्म, जाति, लिंग या जन्मस्थान के आधार पर किसी को सार्वजनिक स्थानों में प्रवेश से नहीं रोका जा सकता। सरकार महिलाओं, बच्चों और पिछड़े वर्गों के लिए विशेष कानून बना सकती है।"
+        },
+        {
+          "id": "art_16",
+          "number": "16",
+          "titleEn": "Equality of Opportunity in Public Employment",
+          "titleHi": "लोक नियोजन के विषय में अवसर की समता",
+          "contentEn": "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.\n\nNo citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.\n\nThe State may make provisions for reservations in appointments for backward classes, Scheduled Castes and Scheduled Tribes.\n\nIn simple words: Government jobs must be open to everyone, regardless of their religion, caste, or birthplace. The government is allowed to reserve some jobs for SC/ST communities and Other Backward Classes to help them get fair representation.",
+          "contentHi": "राज्य के अधीन किसी पद पर नियोजन या नियुक्ति से संबंधित विषयों में सभी नागरिकों के लिए अवसर की समता होगी।\n\nकोई भी नागरिक राज्य के अधीन किसी नियोजन या पद के लिए केवल धर्म, मूलवंश, जाति, लिंग, उद्भव, जन्मस्थान, निवास के आधार पर अपात्र नहीं होगा।\n\nसरल शब्दों में: सरकारी नौकरियाँ सभी के लिए खुली हैं। अनुसूचित जाति, अनुसूचित जनजाति और पिछड़े वर्गों के लिए आरक्षण का प्रावधान है।"
+        },
+        {
+          "id": "art_17",
+          "number": "17",
+          "titleEn": "Abolition of Untouchability",
+          "titleHi": "अस्पृश्यता का उन्मूलन",
+          "contentEn": "Untouchability is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of Untouchability shall be an offence punishable in accordance with law.\n\nIn simple words: Untouchability — the practice of treating certain people as 'impure' based on their caste — is completely banned. Anyone who practises it can be criminally punished. The Protection of Civil Rights Act, 1955 and the SC/ST (Prevention of Atrocities) Act, 1989 were passed to enforce this right.",
+          "contentHi": "अस्पृश्यता का उन्मूलन किया जाता है और उसका किसी भी रूप में आचरण निषिद्ध किया जाता है। अस्पृश्यता से उत्पन्न किसी निर्योग्यता को लागू करना अपराध होगा।\n\nसरल शब्दों में: जाति के आधार पर किसी को छूत मानना पूरी तरह बंद है। ऐसा करना अपराध है। नागरिक अधिकार संरक्षण अधिनियम, 1955 इस अधिकार को लागू करने के लिए बनाया गया।"
+        },
+        {
+          "id": "art_18",
+          "number": "18",
+          "titleEn": "Abolition of Titles",
+          "titleHi": "उपाधियों का उन्मूलन",
+          "contentEn": "No title, not being a military or academic distinction, shall be conferred by the State.\n\nNo citizen of India shall accept any title from any foreign State.\n\nIn simple words: The government cannot give royal or noble titles like 'Raja', 'Maharaja', or 'Sir' to anyone. This was done to ensure equality. However, national honours like Bharat Ratna, Padma Bhushan etc. are permitted as they are not titles but awards.",
+          "contentHi": "राज्य, सेना या विद्या संबंधी सम्मान के अतिरिक्त कोई उपाधि प्रदान नहीं करेगा।\n\nभारत का कोई नागरिक किसी विदेशी राज्य से कोई उपाधि स्वीकार नहीं करेगा।\n\nसरल शब्दों में: सरकार राजा, महाराजा जैसी उपाधियाँ नहीं दे सकती। भारत रत्न, पद्म भूषण आदि पुरस्कार उपाधियाँ नहीं हैं, इसलिए इन्हें दिया जा सकता है।"
+        },
+        {
+          "id": "art_19",
+          "number": "19",
+          "titleEn": "Protection of Six Freedoms",
+          "titleHi": "छह स्वतंत्रताओं का संरक्षण",
+          "contentEn": "All citizens shall have the right to:\n(a) Freedom of speech and expression\n(b) Assemble peaceably and without arms\n(c) Form associations or unions or co-operative societies\n(d) Move freely throughout the territory of India\n(e) Reside and settle in any part of the territory of India\n(g) Practise any profession, or to carry on any occupation, trade or business\n\nThese rights are not absolute and can be restricted by the State on grounds of sovereignty, public order, decency, morality, and security of the State.\n\nIn simple words: Every Indian citizen has 6 core freedoms: the right to speak freely, gather peacefully, form groups, travel anywhere in India, live anywhere in India, and do any job or business. However, these can be limited in the public interest — for example, hate speech can be banned.",
+          "contentHi": "सभी नागरिकों को निम्नलिखित अधिकार हैं:\n(क) वाक्-स्वातंत्र्य और अभिव्यक्ति-स्वातंत्र्य\n(ख) शांतिपूर्वक और निरायुध सम्मेलन का\n(ग) संगम या संघ बनाने का\n(घ) भारत के राज्यक्षेत्र में सर्वत्र अबाध संचरण का\n(ङ) भारत के राज्यक्षेत्र के किसी भाग में निवास करने और बस जाने का\n(छ) कोई वृत्ति, उपजीविका, व्यापार या कारोबार करने का\n\nसरल शब्दों में: हर भारतीय नागरिक को 6 मूल स्वतंत्रताएं मिली हैं: बोलने, शांतिपूर्वक इकट्ठा होने, संगठन बनाने, देश में कहीं भी जाने, कहीं भी बसने और कोई भी व्यवसाय करने की।"
+        },
+        {
+          "id": "art_20",
+          "number": "20",
+          "titleEn": "Protection Against Arbitrary Conviction",
+          "titleHi": "अपराधों के लिए दोषसिद्धि के संबंध में संरक्षण",
+          "contentEn": "No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence.\n\nNo person shall be prosecuted and punished for the same offence more than once.\n\nNo person accused of any offence shall be compelled to be a witness against himself.\n\nIn simple words: These are three protections for accused persons:\n1. You cannot be punished for something that wasn't illegal when you did it.\n2. You cannot be tried twice for the same crime (Double Jeopardy).\n3. You cannot be forced to testify against yourself (Right against self-incrimination).",
+          "contentHi": "किसी व्यक्ति को किसी अपराध के लिए तब तक दोषी नहीं ठहराया जाएगा जब तक उसने ऐसा कार्य करते समय लागू किसी विधि का उल्लंघन न किया हो।\n\nकिसी व्यक्ति को एक ही अपराध के लिए एक बार से अधिक अभियोजित और दंडित नहीं किया जाएगा।\n\nकिसी अपराध के लिए अभियुक्त किसी व्यक्ति को स्वयं अपने विरुद्ध साक्षी होने के लिए बाध्य नहीं किया जाएगा।\n\nसरल शब्दों में: आरोपी को तीन सुरक्षाएं मिली हैं: पूर्वव्यापी दंड से, एक ही अपराध में दो बार मुकदमे से, और खुद के खिलाफ गवाही देने से।"
+        },
+        {
+          "id": "art_21",
+          "number": "21",
+          "titleEn": "Protection of Life and Personal Liberty",
+          "titleHi": "प्राण और दैहिक स्वतंत्रता का संरक्षण",
+          "contentEn": "No person shall be deprived of his life or personal liberty except according to procedure established by law.\n\nIn simple words: This is one of the most important articles in the Constitution. No one can be killed or imprisoned by the government except through a fair legal process. The Supreme Court has expanded this right to include the right to livelihood, right to privacy, right to a clean environment, right to health, right to education, and the right to die with dignity. Article 21 is the heart of the Constitution.",
+          "contentHi": "किसी व्यक्ति को उसके प्राण या दैहिक स्वतंत्रता से विधि द्वारा स्थापित प्रक्रिया के अनुसार ही वंचित किया जाएगा, अन्यथा नहीं।\n\nसरल शब्दों में: यह संविधान के सबसे महत्वपूर्ण अनुच्छेदों में से एक है। सरकार किसी की जान नहीं ले सकती या उसे कैद नहीं कर सकती, जब तक कि कानूनी प्रक्रिया का पालन न हो। सुप्रीम कोर्ट ने इसमें आजीविका का अधिकार, गोपनीयता का अधिकार, स्वच्छ पर्यावरण का अधिकार, स्वास्थ्य का अधिकार भी शामिल किए हैं।"
+        },
+        {
+          "id": "art_21a",
+          "number": "21A",
+          "titleEn": "Right to Education",
+          "titleHi": "शिक्षा का अधिकार",
+          "contentEn": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.\n\nThis article was inserted by the 86th Constitutional Amendment Act, 2002.\n\nIn simple words: Every child between 6 and 14 years of age has the right to free and compulsory education. The government must ensure schools are available and no child is denied education. The Right to Education Act, 2009 was enacted to implement this article.",
+          "contentHi": "राज्य, छह से चौदह वर्ष तक की आयु के सभी बच्चों को नि:शुल्क और अनिवार्य शिक्षा उपलब्ध कराएगा।\n\nयह अनुच्छेद 86वें संवैधानिक संशोधन अधिनियम, 2002 द्वारा जोड़ा गया था।\n\nसरल शब्दों में: 6 से 14 साल के हर बच्चे को मुफ्त और अनिवार्य शिक्षा का अधिकार है। सरकार को यह सुनिश्चित करना होगा कि कोई बच्चा शिक्षा से वंचित न रहे। शिक्षा का अधिकार अधिनियम, 2009 इसी के तहत बना।"
+        },
+        {
+          "id": "art_22",
+          "number": "22",
+          "titleEn": "Protection Against Arrest and Detention",
+          "titleHi": "कुछ दशाओं में गिरफ्तारी और निरोध से संरक्षण",
+          "contentEn": "No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest. Every arrested person has the right to consult and be defended by a legal practitioner of their choice.\n\nEvery person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest.\n\nIn simple words: If you are arrested: (1) you must be told why you were arrested; (2) you have the right to hire a lawyer; (3) you must be brought before a judge within 24 hours. These rights protect ordinary citizens from arbitrary arrest and detention.",
+          "contentHi": "गिरफ्तार किए गए किसी व्यक्ति को यथाशीघ्र गिरफ्तारी के कारणों से अवगत कराए बिना अभिरक्षा में नहीं रखा जाएगा। उसे अपनी पसंद के विधि व्यवसायी से परामर्श करने और उसके द्वारा प्रतिरक्षा कराने का अधिकार है।\n\nगिरफ्तार व्यक्ति को 24 घंटों के भीतर निकटतम मजिस्ट्रेट के समक्ष पेश किया जाएगा।\n\nसरल शब्दों में: गिरफ्तारी पर आपको तुरंत बताना होगा कि क्यों गिरफ्तार किया, वकील का अधिकार मिलेगा और 24 घंटे में जज के सामने पेश करना होगा।"
+        },
+        {
+          "id": "art_23",
+          "number": "23",
+          "titleEn": "Prohibition of Traffic in Human Beings",
+          "titleHi": "मानव के दुर्व्यापार और बलात् श्रम का प्रतिषेध",
+          "contentEn": "Traffic in human beings and begar and other similar forms of forced labour are prohibited. Any contravention of this provision shall be an offence punishable in accordance with law.\n\nIn simple words: Selling or buying of human beings, and forcing people to work without pay (bonded labour or forced labour), is completely banned. This protects the poor and vulnerable from exploitation. The government can, however, impose compulsory service for public purposes like military service.",
+          "contentHi": "मानव का दुर्व्यापार और बेगार तथा इसी प्रकार का अन्य बलात् श्रम प्रतिषिद्ध किया जाता है और इस उपबंध का कोई भी उल्लंघन अपराध होगा।\n\nसरल शब्दों में: इंसानों की खरीद-बिक्री और बिना मजदूरी के जबरदस्ती काम करवाना पूरी तरह बंद है। गरीब और कमजोर लोगों को शोषण से बचाने के लिए यह प्रावधान है।"
+        },
+        {
+          "id": "art_24",
+          "number": "24",
+          "titleEn": "Prohibition of Child Labour",
+          "titleHi": "कारखानों आदि में बालकों के नियोजन का प्रतिषेध",
+          "contentEn": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.\n\nIn simple words: Children under 14 years of age cannot work in factories, mines, or any dangerous workplace. This protects children from exploitation. The Child Labour (Prohibition and Regulation) Act was passed to enforce this. Note: The 2016 amendment extended this ban to all work for children under 14, not just hazardous work.",
+          "contentHi": "14 वर्ष से कम आयु के किसी बालक को किसी कारखाने या खान में काम करने के लिए या किसी अन्य परिसंकटमय नियोजन में नहीं लगाया जाएगा।\n\nसरल शब्दों में: 14 साल से कम उम्र के बच्चों को कारखानों, खानों या खतरनाक कामों में नहीं लगाया जा सकता। बच्चों को शोषण से बचाने के लिए यह प्रावधान है।"
+        },
+        {
+          "id": "art_25",
+          "number": "25",
+          "titleEn": "Freedom of Religion",
+          "titleHi": "अंतःकरण की और धर्म के अबाध रूप से मानने, आचरण और प्रचार करने की स्वतंत्रता",
+          "contentEn": "Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.\n\nIn simple words: Every person in India — not just citizens — has the right to follow, practise, and even spread their religion. This is the basis of India's secularism. However, this right can be restricted on grounds of public order, health, and morality. Note: The right to propagate does not include the right to forcibly convert others.",
+          "contentHi": "लोक व्यवस्था, सदाचार और स्वास्थ्य के अधीन रहते हुए, सभी व्यक्तियों को समान रूप से अंतःकरण की स्वतंत्रता का और धर्म के अबाध रूप से मानने, आचरण करने और प्रचार करने का अधिकार है।\n\nसरल शब्दों में: भारत में हर व्यक्ति को अपना धर्म मानने, उसके अनुसार जीने और उसका प्रचार करने का अधिकार है। यह भारत की धर्मनिरपेक्षता का आधार है।"
+        },
+        {
+          "id": "art_26",
+          "number": "26",
+          "titleEn": "Freedom to Manage Religious Affairs",
+          "titleHi": "धार्मिक कार्यों के प्रबंध की स्वतंत्रता",
+          "contentEn": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to establish and maintain institutions for religious and charitable purposes, manage its own affairs in matters of religion, and own and acquire movable and immovable property.\n\nIn simple words: Religious groups can run their own organisations and manage their affairs. For example, a Hindu temple trust can manage its own funds and property, and a church can run its own schools.",
+          "contentHi": "लोक व्यवस्था, सदाचार और स्वास्थ्य के अधीन, प्रत्येक धार्मिक संप्रदाय या उसके किसी अनुभाग को धार्मिक और पूर्त प्रयोजनों के लिए संस्थाओं की स्थापना और पोषण करने का, धर्म के विषयों में अपने स्वयं के कार्यकलाप का प्रबंध करने का अधिकार होगा।\n\nसरल शब्दों में: धार्मिक समूह अपनी संस्थाएं चला सकते हैं और अपने धार्मिक मामलों का प्रबंधन खुद कर सकते हैं।"
+        },
+        {
+          "id": "art_29",
+          "number": "29",
+          "titleEn": "Protection of Minority Interests",
+          "titleHi": "अल्पसंख्यक-वर्गों के हितों का संरक्षण",
+          "contentEn": "Any section of citizens residing in India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.\n\nNo citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.\n\nIn simple words: Minority groups have the right to preserve their own language and culture. Government-funded schools cannot deny admission to anyone based on religion, caste, or language.",
+          "contentHi": "भारत में या उसके किसी भाग में निवासी नागरिकों के किसी अनुभाग को, जिसकी अपनी विशेष भाषा, लिपि या संस्कृति है, उसे बनाए रखने का अधिकार होगा।\n\nकिसी भी नागरिक को राज्य द्वारा पोषित या राज्य-निधि से सहायता पाने वाले किसी शिक्षा संस्था में केवल धर्म, मूलवंश, जाति, भाषा के आधार पर प्रवेश से नहीं रोका जाएगा।\n\nसरल शब्दों में: अल्पसंख्यक वर्गों को अपनी भाषा और संस्कृति बचाने का अधिकार है। सरकारी स्कूलों में धर्म या जाति के आधार पर प्रवेश नहीं रोका जा सकता।"
+        },
+        {
+          "id": "art_30",
+          "number": "30",
+          "titleEn": "Right of Minorities to Establish Educational Institutions",
+          "titleHi": "शिक्षा संस्थाओं की स्थापना और प्रशासन करने का अल्पसंख्यक वर्गों का अधिकार",
+          "contentEn": "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.\n\nIn granting aid to educational institutions, the State shall not discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language.\n\nIn simple words: Religious and linguistic minorities (like Muslims, Christians, Sikhs, or Tamil-speaking people in a Hindi-majority state) can set up and run their own schools and colleges. The government must not discriminate against these schools when giving grants.",
+          "contentHi": "धर्म या भाषा पर आधारित सभी अल्पसंख्यक वर्गों को अपनी रुचि की शिक्षा संस्थाओं की स्थापना और प्रशासन का अधिकार होगा।\n\nशिक्षा संस्थाओं को अनुदान देने में, राज्य किसी शिक्षा संस्था के विरुद्ध इस आधार पर विभेद नहीं करेगा कि वह किसी अल्पसंख्यक वर्ग के प्रबंध में है।\n\nसरल शब्दों में: धार्मिक और भाषाई अल्पसंख्यक वर्ग अपने स्कूल-कॉलेज खोल सकते हैं और चला सकते हैं। सरकार अनुदान देने में इन्हें भेदभाव नहीं कर सकती।"
+        },
+        {
+          "id": "art_32",
+          "number": "32",
+          "titleEn": "Right to Constitutional Remedies",
+          "titleHi": "इस भाग द्वारा प्रदत्त अधिकारों को प्रवर्तित कराने के लिए उपचार",
+          "contentEn": "The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.\n\nThe Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.\n\nDr. B.R. Ambedkar called this the 'heart and soul' of the Constitution.\n\nIn simple words: If any of your Fundamental Rights are violated, you can directly go to the Supreme Court. The Supreme Court has the power to issue special orders (called writs) to protect your rights. This is what makes Fundamental Rights enforceable and not just aspirational statements. The five types of writs are:\n• Habeas Corpus – used when someone is illegally detained\n• Mandamus – orders a government body to do its duty\n• Prohibition – stops a lower court from exceeding its powers\n• Certiorari – quashes an illegal order of a lower court\n• Quo Warranto – challenges a person's legal right to hold a public office",
+          "contentHi": "इस भाग द्वारा प्रदत्त अधिकारों को प्रवर्तित कराने के लिए समुचित कार्यवाहियों द्वारा उच्चतम न्यायालय में जाने का अधिकार प्रत्याभूत किया जाता है।\n\nडॉ. बी.आर. अम्बेडकर ने इसे संविधान का 'हृदय और आत्मा' कहा था।\n\nसरल शब्दों में: अगर आपके मूल अधिकारों का उल्लंघन होता है तो आप सीधे सुप्रीम कोर्ट जा सकते हैं। कोर्ट पाँच तरह के आदेश जारी कर सकती है जिनसे आपके अधिकारों की रक्षा होती है।"
+        }
+      ]
+    },
+    {
+      "id": "part4",
+      "titleEn": "Directive Principles of State Policy",
+      "titleHi": "राज्य के नीति निदेशक तत्त्व",
+      "descriptionEn": "Articles 36–51 — Guidelines for governance and social welfare",
+      "descriptionHi": "अनुच्छेद 36–51 — शासन और सामाजिक कल्याण के दिशा-निर्देश",
+      "partNumber": "IV",
+      "iconName": "ic_directive",
+      "articles": [
+        {
+          "id": "art_38",
+          "number": "38",
+          "titleEn": "State to Secure Social Order for Welfare",
+          "titleHi": "लोक कल्याण की अभिवृद्धि के लिए सामाजिक व्यवस्था",
+          "contentEn": "The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.\n\nThe State shall, in particular, strive to minimise the inequalities in income and status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations.\n\nIn simple words: The government should work towards creating a just society where wealth, opportunities, and facilities are distributed fairly among all people — not just between individuals but also between different regions and communities. Reducing inequality is a core duty of the government.",
+          "contentHi": "राज्य ऐसी सामाजिक व्यवस्था की स्थापना करके जिसमें सामाजिक, आर्थिक और राजनीतिक न्याय राष्ट्रीय जीवन की सभी संस्थाओं को अनुप्राणित करे, लोक कल्याण की अभिवृद्धि का प्रयास करेगा।\n\nराज्य विशेष रूप से व्यक्तियों के बीच तथा विभिन्न क्षेत्रों में रहने वाले और विभिन्न व्यवसायों में लगे हुए लोगों के समूहों के बीच आय, प्रतिष्ठा, सुविधाओं और अवसरों की असमानता को कम करने का प्रयास करेगा।\n\nसरल शब्दों में: सरकार को एक ऐसा समाज बनाने की कोशिश करनी चाहिए जहाँ न्याय हो और संपत्ति व अवसरों का उचित वितरण हो। असमानता कम करना सरकार का मुख्य कर्तव्य है।"
+        },
+        {
+          "id": "art_39",
+          "number": "39",
+          "titleEn": "Certain Principles of Policy",
+          "titleHi": "राज्य द्वारा अनुसरणीय कुछ नीति तत्त्व",
+          "contentEn": "The State shall, in particular, direct its policy towards securing:\n(a) That the citizens, men and women equally, have the right to an adequate means of livelihood;\n(b) That the ownership and control of the material resources of the community are so distributed as best to subserve the common good;\n(c) That the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment;\n(d) That there is equal pay for equal work for both men and women;\n(e) That the health and strength of workers are not abused;\n(f) That children are not forced by economic necessity to enter unsuitable work.\n\nIn simple words: The government should work towards equal pay for equal work for men and women, ensure that wealth doesn't concentrate in the hands of a few, provide everyone with a livelihood, and protect workers and children from exploitation.",
+          "contentHi": "राज्य अपनी नीति को विशेष रूप से इस प्रकार निदेशित करेगा कि:\n(क) सभी नागरिकों — पुरुषों और महिलाओं को — पर्याप्त आजीविका का अधिकार हो;\n(ग) समुदाय के भौतिक संसाधनों का वितरण इस प्रकार हो जिससे सामूहिक हित की वृद्धि हो;\n(घ) आर्थिक प्रणाली इस प्रकार न चले कि धन का संकेंद्रण हो;\n(ङ) पुरुषों और महिलाओं दोनों के लिए समान काम के लिए समान वेतन हो;\n\nसरल शब्दों में: पुरुष और महिला को समान काम के लिए समान वेतन मिले, धन कुछ लोगों के हाथों में न सिमटे, सभी को आजीविका मिले और मजदूरों एवं बच्चों का शोषण न हो।"
+        },
+        {
+          "id": "art_40",
+          "number": "40",
+          "titleEn": "Organisation of Village Panchayats",
+          "titleHi": "ग्राम पंचायतों का संगठन",
+          "contentEn": "The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.\n\nIn simple words: The government should set up and strengthen village self-governance (Panchayati Raj). This was the basis for the 73rd Constitutional Amendment in 1992 which gave constitutional status to Panchayati Raj Institutions.",
+          "contentHi": "राज्य ग्राम पंचायतों का संगठन करने के लिए कदम उठाएगा और उन्हें ऐसी शक्तियाँ और प्राधिकार प्रदान करेगा जो उन्हें स्वायत्त शासन की इकाइयों के रूप में कार्य करने योग्य बनाने के लिए आवश्यक हों।\n\nसरल शब्दों में: सरकार ग्राम पंचायतों को मजबूत करे। 1992 के 73वें संवैधानिक संशोधन से पंचायती राज संस्थाओं को संवैधानिक दर्जा मिला।"
+        },
+        {
+          "id": "art_44",
+          "number": "44",
+          "titleEn": "Uniform Civil Code",
+          "titleHi": "नागरिकों के लिए एक समान सिविल संहिता",
+          "contentEn": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.\n\nIn simple words: The government should try to create one set of civil laws (for marriage, divorce, inheritance, adoption) that applies to all citizens regardless of their religion. Currently, different religious communities have their own personal laws (Hindu law, Muslim personal law, etc.). A Uniform Civil Code remains a highly debated topic in India.",
+          "contentHi": "राज्य, भारत के समस्त राज्यक्षेत्र में नागरिकों के लिए एक समान सिविल संहिता प्राप्त कराने का प्रयास करेगा।\n\nसरल शब्दों में: सरकार को कोशिश करनी चाहिए कि विवाह, तलाक, संपत्ति जैसे मामलों में सभी नागरिकों के लिए एक ही कानून हो, चाहे वे किसी भी धर्म के हों। यह भारत में एक बहुचर्चित विषय है।"
+        },
+        {
+          "id": "art_45",
+          "number": "45",
+          "titleEn": "Free and Compulsory Education for Children",
+          "titleHi": "बालकों के लिए नि:शुल्क और अनिवार्य शिक्षा",
+          "contentEn": "The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years.\n\n(Note: After the 86th Amendment 2002, the duty of free education for 6–14 years old was moved to Article 21A as a Fundamental Right.)\n\nIn simple words: The government must provide early childhood care and education (like anganwadi and pre-school) for all children up to age 6. Free schooling from 6 to 14 years is now a Fundamental Right under Article 21A.",
+          "contentHi": "राज्य, छह वर्ष की आयु पूरी करने तक के सभी बच्चों के लिए प्रारंभिक बाल्यावस्था देखभाल और शिक्षा प्रदान करने का प्रयास करेगा।\n\nसरल शब्दों में: सरकार को 6 वर्ष तक के बच्चों के लिए बाल देखभाल और शिक्षा देनी होगी। 6 से 14 साल की शिक्षा अनुच्छेद 21A के तहत मूल अधिकार बन गई है।"
+        },
+        {
+          "id": "art_48a",
+          "number": "48A",
+          "titleEn": "Protection and Improvement of Environment",
+          "titleHi": "पर्यावरण का संरक्षण और सुधार",
+          "contentEn": "The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country.\n\nIn simple words: The government must protect India's environment, forests, and wildlife. This article was added by the 42nd Amendment in 1976 and forms the constitutional basis for environmental laws like the Environment Protection Act, 1986, Forest Conservation Act, and Wildlife Protection Act.",
+          "contentHi": "राज्य, देश के पर्यावरण के संरक्षण और उसमें सुधार का और वनों तथा वन्य जीवों की रक्षा करने का प्रयास करेगा।\n\nसरल शब्दों में: सरकार को पर्यावरण, जंगलों और वन्यजीवों की रक्षा करनी होगी। यह अनुच्छेद पर्यावरण संरक्षण अधिनियम 1986 और वन्यजीव संरक्षण अधिनियम का संवैधानिक आधार है।"
+        },
+        {
+          "id": "art_50",
+          "number": "50",
+          "titleEn": "Separation of Judiciary from Executive",
+          "titleHi": "कार्यपालिका से न्यायपालिका का पृथक्करण",
+          "contentEn": "The State shall take steps to separate the judiciary from the executive in the public services of the State.\n\nIn simple words: The courts and the police/government should be separate. Judges should not be under the control of the executive (government). This independence of the judiciary is vital for justice — a judge must be free to rule against the government if the government is in the wrong.",
+          "contentHi": "राज्य की लोक सेवाओं में, न्यायपालिका को कार्यपालिका से पृथक् करने के लिए राज्य कदम उठाएगा।\n\nसरल शब्दों में: न्यायपालिका (अदालतें) और कार्यपालिका (सरकार/पुलिस) अलग-अलग होनी चाहिए। न्यायाधीश स्वतंत्र होने चाहिए ताकि वे सरकार के खिलाफ भी निर्णय दे सकें।"
+        },
+        {
+          "id": "art_51",
+          "number": "51",
+          "titleEn": "Promotion of International Peace",
+          "titleHi": "अंतर्राष्ट्रीय शांति और सुरक्षा की अभिवृद्धि",
+          "contentEn": "The State shall endeavour to: (a) promote international peace and security; (b) maintain just and honourable relations between nations; (c) foster respect for international law and treaty obligations; and (d) encourage settlement of international disputes by arbitration.\n\nIn simple words: India should work for world peace, treat other countries with respect, follow international laws and treaties, and resolve conflicts through negotiation rather than war. This reflects India's historical policy of non-alignment and peaceful coexistence.",
+          "contentHi": "राज्य, (क) अंतर्राष्ट्रीय शांति और सुरक्षा की अभिवृद्धि का; (ख) राष्ट्रों के बीच न्यायसंगत और सम्मानपूर्ण संबंध बनाए रखने का; (ग) अंतर्राष्ट्रीय विधि और संधि के प्रति आदर बढ़ाने का; (घ) मध्यस्थम द्वारा अंतर्राष्ट्रीय विवादों के निपटारे को प्रोत्साहित करने का प्रयास करेगा।\n\nसरल शब्दों में: भारत को विश्व शांति के लिए काम करना चाहिए, दूसरे देशों के साथ सम्मानपूर्वक व्यवहार करना चाहिए और युद्ध की बजाय बातचीत से विवाद सुलझाने चाहिए।"
+        }
+      ]
+    },
+    {
+      "id": "part4a",
+      "titleEn": "Fundamental Duties",
+      "titleHi": "मूल कर्तव्य",
+      "descriptionEn": "Article 51A — Duties of every Indian citizen",
+      "descriptionHi": "अनुच्छेद 51A — हर भारतीय नागरिक के कर्तव्य",
+      "partNumber": "IV-A",
+      "iconName": "ic_duties",
+      "articles": [
+        {
+          "id": "art_51a",
+          "number": "51A",
+          "titleEn": "Fundamental Duties",
+          "titleHi": "मूल कर्तव्य",
+          "contentEn": "It shall be the duty of every citizen of India:\n\n(a) To abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;\n(b) To cherish and follow the noble ideals which inspired our national struggle for freedom;\n(c) To uphold and protect the sovereignty, unity and integrity of India;\n(d) To defend the country and render national service when called upon to do so;\n(e) To promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities;\n(f) To value and preserve the rich heritage of our composite culture;\n(g) To protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;\n(h) To develop the scientific temper, humanism and the spirit of inquiry and reform;\n(i) To safeguard public property and to abjure violence;\n(j) To strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;\n(k) To provide opportunities for education to his child or ward between the age of six and fourteen years. [Added by 86th Amendment, 2002]\n\nNote: Fundamental Duties were added by the 42nd Amendment in 1976, based on the recommendation of the Swaran Singh Committee. They are not enforceable by courts but serve as moral obligations.\n\nIn simple words: While the Constitution gives you rights, it also asks you to fulfill duties. These 11 duties include respecting the Constitution, protecting nature, promoting unity among Indians, developing scientific thinking, and providing education to your children.",
+          "contentHi": "प्रत्येक भारतीय नागरिक का यह कर्तव्य होगा कि:\n\n(क) संविधान का पालन करे और उसके आदर्शों, संस्थाओं, राष्ट्र ध्वज और राष्ट्रगान का आदर करे;\n(ख) स्वतंत्रता के लिए राष्ट्रीय आंदोलन को प्रेरित करने वाले उच्च आदर्शों को हृदय में संजोए;\n(ग) भारत की प्रभुता, एकता और अखंडता की रक्षा करे;\n(घ) देश की रक्षा करे;\n(ङ) धार्मिक, भाषाई, क्षेत्रीय विविधताओं से परे सभी भारतीयों में भाईचारे की भावना को बढ़ावा दे;\n(च) हमारी मिश्रित संस्कृति की समृद्ध धरोहर को संजोए;\n(छ) प्राकृतिक पर्यावरण की रक्षा और उसका संवर्धन करे;\n(ज) वैज्ञानिक दृष्टिकोण, मानवतावाद और ज्ञानार्जन की भावना का विकास करे;\n(झ) सार्वजनिक संपत्ति को सुरक्षित रखे और हिंसा से दूर रहे;\n(ञ) व्यक्तिगत और सामूहिक गतिविधि के सभी क्षेत्रों में उत्कर्ष की दिशा में प्रयास करे;\n(ट) 6 से 14 वर्ष के बच्चे को शिक्षा के अवसर प्रदान करे।\n\nसरल शब्दों में: संविधान अधिकारों के साथ-साथ 11 कर्तव्य भी देता है। इनमें संविधान का सम्मान, प्रकृति की रक्षा, भाईचारा, वैज्ञानिक सोच और बच्चों को शिक्षा देना शामिल है।"
+        }
+      ]
+    },
+    {
+      "id": "part5",
+      "titleEn": "The Union Government",
+      "titleHi": "संघ सरकार",
+      "descriptionEn": "Articles 52–151 — President, Parliament, and Executive",
+      "descriptionHi": "अनुच्छेद 52–151 — राष्ट्रपति, संसद और कार्यपालिका",
+      "partNumber": "V",
+      "iconName": "ic_union_govt",
+      "articles": [
+        {
+          "id": "art_52",
+          "number": "52",
+          "titleEn": "The President of India",
+          "titleHi": "भारत का राष्ट्रपति",
+          "contentEn": "There shall be a President of India.\n\nIn simple words: India has a President who is the constitutional head of the country. The President is the supreme executive authority — but in practice, real power is exercised by the Prime Minister and the Council of Ministers. The President acts on the advice of the Cabinet.",
+          "contentHi": "भारत का एक राष्ट्रपति होगा।\n\nसरल शब्दों में: भारत का एक राष्ट्रपति होगा जो देश का संवैधानिक प्रमुख होगा। व्यवहार में असली शक्ति प्रधानमंत्री और मंत्रिमंडल के पास होती है। राष्ट्रपति मंत्रिमंडल की सलाह पर काम करता है।"
+        },
+        {
+          "id": "art_53",
+          "number": "53",
+          "titleEn": "Executive Power of the Union",
+          "titleHi": "संघ की कार्यपालिका शक्ति",
+          "contentEn": "The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.\n\nThe supreme command of the Defence Forces shall also be vested in the President.\n\nIn simple words: Formally, the President has executive power. But this power is exercised on the advice of the Prime Minister and Cabinet. The President is also the Supreme Commander of all three armed forces — Army, Navy, and Air Force.",
+          "contentHi": "संघ की कार्यपालिका शक्ति राष्ट्रपति में निहित होगी और वह इसका प्रयोग इस संविधान के अनुसार स्वयं या अपने अधीनस्थ अधिकारियों के द्वारा करेगा।\n\nरक्षा बलों का सर्वोच्च समादेश भी राष्ट्रपति में निहित होगा।\n\nसरल शब्दों में: राष्ट्रपति के पास औपचारिक रूप से कार्यपालिका की शक्ति है लेकिन इसका उपयोग प्रधानमंत्री की सलाह पर होता है। राष्ट्रपति तीनों सेनाओं का सर्वोच्च कमांडर भी होता है।"
+        },
+        {
+          "id": "art_54",
+          "number": "54",
+          "titleEn": "Election of President",
+          "titleHi": "राष्ट्रपति का निर्वाचन",
+          "contentEn": "The President shall be elected by the members of an electoral college consisting of:\n(a) the elected members of both Houses of Parliament; and\n(b) the elected members of the Legislative Assemblies of the States.\n\nIn simple words: The President is not directly elected by the public. Instead, elected Members of Parliament (Lok Sabha and Rajya Sabha) and elected MLAs of all state assemblies vote to choose the President. Each vote is weighted based on the population of the state.",
+          "contentHi": "राष्ट्रपति का निर्वाचन ऐसे निर्वाचक मंडल के सदस्यों द्वारा होगा जिसमें संसद के दोनों सदनों के निर्वाचित सदस्य और राज्यों की विधान सभाओं के निर्वाचित सदस्य होते हैं।\n\nसरल शब्दों में: राष्ट्रपति का चुनाव आम जनता नहीं बल्कि संसद सदस्य और राज्य विधानसभा सदस्य करते हैं। हर वोट का वजन राज्य की जनसंख्या के आधार पर होता है।"
+        },
+        {
+          "id": "art_63",
+          "number": "63",
+          "titleEn": "The Vice-President",
+          "titleHi": "भारत का उपराष्ट्रपति",
+          "contentEn": "There shall be a Vice-President of India.\n\nThe Vice-President is the ex-officio Chairman of the Rajya Sabha. The Vice-President acts as President when the President's office is vacant or the President is unable to discharge their functions.\n\nIn simple words: India has a Vice-President who automatically becomes the Chairman of Rajya Sabha. When the President is unavailable (due to illness, absence, or death), the Vice-President takes over as Acting President.",
+          "contentHi": "भारत का एक उपराष्ट्रपति होगा।\n\nउपराष्ट्रपति पदेन राज्यसभा का सभापति होता है। जब राष्ट्रपति का पद खाली हो या वे अपने कार्य नहीं कर सकते, तो उपराष्ट्रपति कार्यवाहक राष्ट्रपति बनते हैं।\n\nसरल शब्दों में: उपराष्ट्रपति स्वतः राज्यसभा के अध्यक्ष होते हैं। राष्ट्रपति की अनुपस्थिति में वे कार्यवाहक राष्ट्रपति की भूमिका निभाते हैं।"
+        },
+        {
+          "id": "art_74",
+          "number": "74",
+          "titleEn": "Council of Ministers",
+          "titleHi": "राष्ट्रपति को सहायता और सलाह देने के लिए मंत्रि-परिषद्",
+          "contentEn": "There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President who shall, in the exercise of his functions, act in accordance with such advice.\n\nThe President may require the Council of Ministers to reconsider such advice and the President shall act in accordance with the advice tendered after such reconsideration.\n\nIn simple words: The Prime Minister leads a group of Ministers (the Cabinet) who advise the President. The President must follow this advice. This is why India is called a parliamentary democracy — real power lies with the Prime Minister and Cabinet, not the President.",
+          "contentHi": "राष्ट्रपति को उसके कृत्यों के प्रयोग में सहायता और सलाह देने के लिए प्रधानमंत्री की अध्यक्षता में एक मंत्रि-परिषद् होगी और राष्ट्रपति उक्त सलाह के अनुसार कार्य करेगा।\n\nसरल शब्दों में: प्रधानमंत्री मंत्रिमंडल का नेतृत्व करते हैं जो राष्ट्रपति को सलाह देते हैं। राष्ट्रपति को उस सलाह पर चलना होता है। इसीलिए भारत में असली शक्ति प्रधानमंत्री के पास होती है।"
+        },
+        {
+          "id": "art_79",
+          "number": "79",
+          "titleEn": "Constitution of Parliament",
+          "titleHi": "संसद का गठन",
+          "contentEn": "There shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the Council of States (Rajya Sabha) and the House of the People (Lok Sabha).\n\nIn simple words: India's Parliament has three parts: (1) the President, (2) Rajya Sabha (Council of States — the upper house, representing states), and (3) Lok Sabha (House of the People — the lower house, directly elected by the people). Together they make the laws of India.",
+          "contentHi": "संघ के लिए एक संसद होगी जो राष्ट्रपति और राज्यसभा (राज्यों की परिषद्) और लोकसभा (जनता का सदन) दो सदनों से मिलकर बनेगी।\n\nसरल शब्दों में: भारत की संसद के तीन हिस्से हैं: राष्ट्रपति, राज्यसभा (ऊपरी सदन) और लोकसभा (निचला सदन)। ये मिलकर भारत के कानून बनाते हैं।"
+        },
+        {
+          "id": "art_83",
+          "number": "83",
+          "titleEn": "Duration of Houses of Parliament",
+          "titleHi": "संसद के सदनों की अवधि",
+          "contentEn": "The Rajya Sabha shall not be subject to dissolution; but as nearly as possible one-third of its members shall retire every second year in accordance with the provisions made in that behalf by Parliament by law.\n\nThe Lok Sabha, unless sooner dissolved, shall continue for five years from the date appointed for its first sitting and no longer — the expiration of the said period of five years shall operate as a dissolution of the House.\n\nIn simple words: Lok Sabha lasts for 5 years and then there are general elections. Rajya Sabha is a permanent body — it never dissolves. One-third of its members retire every 2 years and are replaced by new members.",
+          "contentHi": "राज्यसभा का विघटन नहीं होगा, परंतु उसके सदस्यों में से यथासंभव एक-तिहाई सदस्य, संसद द्वारा विधि द्वारा इस निमित्त किए गए उपबंधों के अनुसार, प्रत्येक द्वितीय वर्ष बीत जाने पर सेवानिवृत्त होंगे।\n\nलोकसभा अपनी पहली बैठक की तारीख से पाँच वर्ष तक बनी रहेगी।\n\nसरल शब्दों में: लोकसभा 5 साल में एक बार आम चुनाव से बनती है। राज्यसभा कभी भंग नहीं होती — उसके एक-तिहाई सदस्य हर 2 साल में बदलते रहते हैं।"
+        },
+        {
+          "id": "art_112",
+          "number": "112",
+          "titleEn": "Annual Financial Statement (Budget)",
+          "titleHi": "वार्षिक वित्तीय विवरण",
+          "contentEn": "The President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year — this is called the Annual Financial Statement or Union Budget.\n\nIn simple words: Every year, the government must present a Budget — a detailed statement of how much money it expects to earn (from taxes etc.) and how it plans to spend it. This is the Union Budget, usually presented on February 1. Parliament must approve the Budget for the government to spend money.",
+          "contentHi": "राष्ट्रपति प्रत्येक वित्तीय वर्ष के लिए भारत सरकार की उस वर्ष की अनुमानित प्राप्तियों और व्यय का वक्तव्य संसद के दोनों सदनों के सामने रखवाएगा। इसे वार्षिक वित्तीय विवरण या केंद्रीय बजट कहते हैं।\n\nसरल शब्दों में: सरकार को हर साल बजट पेश करना होता है — यानी बताना होता है कि वह कितना पैसा कमाएगी और कहाँ खर्च करेगी। यह आमतौर पर 1 फरवरी को पेश होता है।"
+        }
+      ]
+    },
+    {
+      "id": "part6",
+      "titleEn": "The State Governments",
+      "titleHi": "राज्य सरकारें",
+      "descriptionEn": "Articles 152–237 — Governor, State Legislature, and Executive",
+      "descriptionHi": "अनुच्छेद 152–237 — राज्यपाल, राज्य विधानमंडल और कार्यपालिका",
+      "partNumber": "VI",
+      "iconName": "ic_state_govt",
+      "articles": [
+        {
+          "id": "art_153",
+          "number": "153",
+          "titleEn": "Governor of a State",
+          "titleHi": "राज्यपाल",
+          "contentEn": "There shall be a Governor for each State.\n\nNote: One person can be appointed as Governor for two or more States.\n\nIn simple words: Every state has a Governor who is the constitutional head of that state — similar to how the President is the head of India. The Governor is appointed by the President (on the advice of the Prime Minister), not elected. The real executive power in a state lies with the Chief Minister and the State Cabinet.",
+          "contentHi": "प्रत्येक राज्य के लिए एक राज्यपाल होगा।\n\nसरल शब्दों में: हर राज्य का एक राज्यपाल होता है जो राज्य का संवैधानिक प्रमुख होता है। राज्यपाल राष्ट्रपति द्वारा नियुक्त होता है, चुना नहीं जाता। असली शक्ति मुख्यमंत्री और मंत्रिमंडल के पास होती है।"
+        },
+        {
+          "id": "art_163",
+          "number": "163",
+          "titleEn": "Council of Ministers to Aid Governor",
+          "titleHi": "राज्यपाल को सहायता और सलाह देने के लिए मंत्रि-परिषद्",
+          "contentEn": "There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions.\n\nIn simple words: The Chief Minister leads a group of Ministers (State Cabinet) who advise the Governor. The Governor must act on this advice. This mirrors the relationship between the President and the Prime Minister at the national level.",
+          "contentHi": "राज्यपाल को उसके कृत्यों के प्रयोग में सहायता और सलाह देने के लिए मुख्यमंत्री की अध्यक्षता में एक मंत्रि-परिषद् होगी।\n\nसरल शब्दों में: मुख्यमंत्री राज्य मंत्रिमंडल का नेतृत्व करते हैं। राज्यपाल उनकी सलाह पर काम करता है, ठीक वैसे जैसे राष्ट्रीय स्तर पर राष्ट्रपति प्रधानमंत्री की सलाह पर काम करता है।"
+        },
+        {
+          "id": "art_168",
+          "number": "168",
+          "titleEn": "Constitution of Legislatures in States",
+          "titleHi": "राज्यों में विधानमंडलों का गठन",
+          "contentEn": "For every State, there shall be a Legislature which shall consist of the Governor, and in the States of Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra, Karnataka, and Tamil Nadu — two Houses; and in other States — one House.\n\nThe upper house is called the Legislative Council (Vidhan Parishad) and the lower house is the Legislative Assembly (Vidhan Sabha).\n\nIn simple words: Every state has a legislature. Most states have only one house (Vidhan Sabha). Some larger states also have a second house called the Vidhan Parishad. The Vidhan Sabha is directly elected by voters and has more power.",
+          "contentHi": "प्रत्येक राज्य के लिए एक विधानमंडल होगा जिसमें राज्यपाल और आंध्र प्रदेश, तेलंगाना, उत्तर प्रदेश, बिहार, महाराष्ट्र, कर्नाटक और तमिलनाडु राज्यों में दो सदन; और अन्य राज्यों में एक सदन होगा।\n\nसरल शब्दों में: अधिकतर राज्यों में केवल एक सदन (विधानसभा) होती है। कुछ बड़े राज्यों में विधान परिषद् भी होती है। विधानसभा सीधे मतदाताओं द्वारा चुनी जाती है।"
+        }
+      ]
+    },
+    {
+      "id": "part11",
+      "titleEn": "Relations Between Centre and States",
+      "titleHi": "केंद्र-राज्य संबंध",
+      "descriptionEn": "Articles 245–263 — Division of powers between Centre and States",
+      "descriptionHi": "अनुच्छेद 245–263 — केंद्र और राज्यों के बीच शक्तियों का बँटवारा",
+      "partNumber": "XI",
+      "iconName": "ic_federalism",
+      "articles": [
+        {
+          "id": "art_245",
+          "number": "245",
+          "titleEn": "Extent of Laws Made by Parliament and State Legislatures",
+          "titleHi": "संसद और राज्य विधानमंडलों द्वारा बनाई गई विधियों की विस्तृति",
+          "contentEn": "Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State.\n\nIn simple words: Parliament can make laws for all of India. State legislatures can make laws for their own state only. The 7th Schedule of the Constitution divides subjects into three lists: the Union List (Parliament alone), the State List (states alone), and the Concurrent List (both can make laws, but Parliament's law prevails in case of conflict).",
+          "contentHi": "संसद भारत के समस्त राज्यक्षेत्र या उसके किसी भाग के लिए विधि बना सकती है और किसी राज्य का विधानमंडल उस राज्य के समस्त राज्यक्षेत्र या उसके किसी भाग के लिए विधि बना सकता है।\n\nसरल शब्दों में: संसद पूरे देश के लिए कानून बनाती है और राज्य विधानसभाएं अपने राज्य के लिए। 7वीं अनुसूची विषयों को तीन सूचियों में बाँटती है: केंद्र सूची, राज्य सूची और समवर्ती सूची।"
+        },
+        {
+          "id": "art_246",
+          "number": "246",
+          "titleEn": "Subject-Matter of Laws — Three Lists",
+          "titleHi": "संसद और राज्यों द्वारा बनाई गई विधियों की विषय-वस्तु",
+          "contentEn": "Parliament has exclusive power to make laws on subjects in the Union List (List I) — which includes defence, foreign affairs, currency, banking, railways, etc.\n\nState Legislatures have power to make laws on subjects in the State List (List II) — which includes police, public order, public health, agriculture, local government, etc.\n\nBoth Parliament and State Legislatures can make laws on subjects in the Concurrent List (List III) — which includes education, marriage, bankruptcy, forests, etc. If there's a conflict, Parliament's law prevails.\n\nIn simple words: India uses a federal system where powers are divided. Defence, foreign policy, currency — these are Central subjects. Police, agriculture, healthcare — these are State subjects. Education, marriage laws — both Centre and States can make laws.",
+          "contentHi": "संसद को संघ सूची (सूची I) के विषयों पर कानून बनाने का एकमात्र अधिकार है — जिसमें रक्षा, विदेशी मामले, मुद्रा, बैंकिंग, रेलवे आदि शामिल हैं।\n\nराज्य विधानसभाओं को राज्य सूची (सूची II) के विषयों पर कानून बनाने का अधिकार है — जिसमें पुलिस, कानून-व्यवस्था, जन स्वास्थ्य, कृषि, स्थानीय सरकार आदि शामिल हैं।\n\nसमवर्ती सूची (सूची III) के विषयों पर दोनों कानून बना सकते हैं — शिक्षा, विवाह, दिवालियापन, वन आदि। विवाद में संसद का कानून मान्य होगा।"
+        }
+      ]
+    },
+    {
+      "id": "part12",
+      "titleEn": "Finance, Property and Contracts",
+      "titleHi": "वित्त, संपत्ति, संविदाएं और वाद",
+      "descriptionEn": "Articles 264–300A — Financial relations and property rights",
+      "descriptionHi": "अनुच्छेद 264–300A — वित्तीय संबंध और संपत्ति अधिकार",
+      "partNumber": "XII",
+      "iconName": "ic_finance",
+      "articles": [
+        {
+          "id": "art_280",
+          "number": "280",
+          "titleEn": "Finance Commission",
+          "titleHi": "वित्त आयोग",
+          "contentEn": "The President shall, within two years from the commencement of this Constitution and thereafter at the expiration of every fifth year or at such earlier time as the President considers necessary, by order constitute a Finance Commission which shall consist of a chairman and four other members.\n\nIn simple words: Every 5 years, the President sets up a Finance Commission — a group of experts who decide how to divide tax revenues between the Central Government and the State Governments. This ensures states get their fair share of taxes collected by the Centre.",
+          "contentHi": "राष्ट्रपति इस संविधान के प्रारंभ से दो वर्ष के भीतर और उसके बाद प्रत्येक पाँचवें वर्ष की समाप्ति पर एक वित्त आयोग का गठन करेगा जो एक अध्यक्ष और चार अन्य सदस्यों से मिलकर बनेगा।\n\nसरल शब्दों में: हर 5 साल में वित्त आयोग बनता है जो केंद्र और राज्यों के बीच कर राजस्व का बँटवारा तय करता है।"
+        },
+        {
+          "id": "art_300a",
+          "number": "300A",
+          "titleEn": "Right to Property",
+          "titleHi": "संपत्ति का अधिकार",
+          "contentEn": "No person shall be deprived of his property save by authority of law.\n\nNote: The right to property was originally a Fundamental Right under Article 19(1)(f) and Article 31. The 44th Amendment Act, 1978 removed it from the Fundamental Rights chapter and converted it into a legal right under Article 300A.\n\nIn simple words: The government cannot take away your property without legal authority and proper compensation. However, since it is no longer a Fundamental Right, you cannot directly approach the Supreme Court — you must go through High Courts or lower courts.",
+          "contentHi": "किसी व्यक्ति को उसकी संपत्ति से विधि के प्राधिकार के बिना वंचित नहीं किया जाएगा।\n\nनोट: संपत्ति का अधिकार पहले मूल अधिकार था। 44वें संशोधन, 1978 ने इसे मूल अधिकारों से हटाकर कानूनी अधिकार बना दिया।\n\nसरल शब्दों में: सरकार बिना कानूनी अधिकार और उचित मुआवजे के आपकी संपत्ति नहीं छीन सकती।"
+        }
+      ]
+    },
+    {
+      "id": "part14",
+      "titleEn": "Services Under the Union and States",
+      "titleHi": "संघ और राज्यों के अधीन सेवाएँ",
+      "descriptionEn": "Articles 308–323 — Civil Services and UPSC",
+      "descriptionHi": "अनुच्छेद 308–323 — सिविल सेवाएं और UPSC",
+      "partNumber": "XIV",
+      "iconName": "ic_services",
+      "articles": [
+        {
+          "id": "art_315",
+          "number": "315",
+          "titleEn": "Public Service Commissions",
+          "titleHi": "संघ और राज्यों के लिए लोक सेवा आयोग",
+          "contentEn": "There shall be a Public Service Commission for the Union and a Public Service Commission for each State.\n\nThe Union Public Service Commission (UPSC) is responsible for conducting examinations and making recommendations for appointments to civil services of the Union (like IAS, IPS, IFS).\n\nIn simple words: UPSC (Union Public Service Commission) is the body that conducts exams for top government jobs like IAS, IPS, IFS, etc. Similarly, each state has its own State Public Service Commission. This ensures that government jobs are given on merit, not nepotism.",
+          "contentHi": "संघ के लिए एक और प्रत्येक राज्य के लिए एक लोक सेवा आयोग होगा।\n\nसंघ लोक सेवा आयोग (UPSC) संघ की सिविल सेवाओं (IAS, IPS, IFS आदि) के लिए परीक्षाएं आयोजित करता है।\n\nसरल शब्दों में: UPSC IAS, IPS जैसी परीक्षाएं कराता है। राज्यों के अपने लोक सेवा आयोग हैं। यह योग्यता के आधार पर सरकारी नौकरियाँ देना सुनिश्चित करता है।"
+        }
+      ]
+    },
+    {
+      "id": "part15",
+      "titleEn": "Elections",
+      "titleHi": "निर्वाचन",
+      "descriptionEn": "Articles 324–329 — Election Commission and free elections",
+      "descriptionHi": "अनुच्छेद 324–329 — निर्वाचन आयोग और स्वतंत्र चुनाव",
+      "partNumber": "XV",
+      "iconName": "ic_elections",
+      "articles": [
+        {
+          "id": "art_324",
+          "number": "324",
+          "titleEn": "Election Commission",
+          "titleHi": "निर्वाचन आयोग",
+          "contentEn": "The superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every State and of elections to the offices of President and Vice-President held under this Constitution shall be vested in a Commission.\n\nThe Election Commission shall consist of the Chief Election Commissioner and such number of other Election Commissioners as the President may fix from time to time.\n\nIn simple words: The Election Commission of India (ECI) is the independent body that runs all elections in India — Lok Sabha, Rajya Sabha, state assemblies, and Presidential elections. The Chief Election Commissioner cannot be removed except by the same process as a Supreme Court judge, ensuring their independence.",
+          "contentHi": "संसद और प्रत्येक राज्य के विधानमंडल के लिए तथा राष्ट्रपति और उपराष्ट्रपति के पदों के निर्वाचनों के लिए निर्वाचक नामावलियों की तैयारी का और उन सभी निर्वाचनों के संचालन का अधीक्षण, निदेशन और नियंत्रण एक आयोग में निहित होगा।\n\nसरल शब्दों में: भारत निर्वाचन आयोग (ECI) एक स्वतंत्र संस्था है जो देश के सभी चुनाव कराती है। मुख्य निर्वाचन आयुक्त की स्वतंत्रता सुनिश्चित करने के लिए उन्हें सर्वोच्च न्यायालय के न्यायाधीश जैसी सुरक्षा मिली है।"
+        },
+        {
+          "id": "art_326",
+          "number": "326",
+          "titleEn": "Universal Adult Franchise",
+          "titleHi": "लोकसभा और राज्यों की विधानसभाओं के लिए निर्वाचनों का वयस्क मताधिकार के आधार पर होना",
+          "contentEn": "The elections to the House of the People and to the Legislative Assembly of every State shall be on the basis of adult suffrage; that is to say, every person who is a citizen of India and who is not less than eighteen years of age on such date as may be fixed in that behalf by or under any law made by the appropriate Legislature and is not otherwise disqualified under this Constitution or any law made by the appropriate Legislature on the ground of non-residence, unsoundness of mind, crime or corrupt or illegal practice, shall be entitled to be registered as a voter at any such election.\n\nIn simple words: Every Indian citizen aged 18 or above has the right to vote. This is called Universal Adult Franchise. It doesn't matter if you are rich or poor, educated or not — one person, one vote. The voting age was reduced from 21 to 18 by the 61st Amendment in 1988.",
+          "contentHi": "लोकसभा और प्रत्येक राज्य की विधानसभा के लिए निर्वाचन वयस्क मताधिकार के आधार पर होगा; अर्थात् प्रत्येक व्यक्ति जो भारत का नागरिक है और अठारह वर्ष से कम आयु का नहीं है, वोट देने का हकदार है।\n\nसरल शब्दों में: 18 साल या उससे अधिक का हर भारतीय नागरिक वोट दे सकता है। अमीर हो या गरीब, पढ़ा-लिखा हो या नहीं — एक व्यक्ति, एक वोट। 1988 में 61वें संशोधन से मतदान की आयु 21 से घटाकर 18 की गई।"
+        }
+      ]
+    },
+    {
+      "id": "part18",
+      "titleEn": "Emergency Provisions",
+      "titleHi": "आपात उपबंध",
+      "descriptionEn": "Articles 352–360 — National, State and Financial Emergencies",
+      "descriptionHi": "अनुच्छेद 352–360 — राष्ट्रीय, राज्य और वित्तीय आपात",
+      "partNumber": "XVIII",
+      "iconName": "ic_emergency",
+      "articles": [
+        {
+          "id": "art_352",
+          "number": "352",
+          "titleEn": "Proclamation of National Emergency",
+          "titleHi": "आपात की उद्घोषणा",
+          "contentEn": "If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by war, external aggression or armed rebellion, he may, by Proclamation, make a declaration to that effect.\n\nA proclamation of Emergency must be approved by both Houses of Parliament within one month, with a special majority (two-thirds of members present and voting, which must also be more than half the total membership).\n\nIn simple words: If India faces war, foreign attack, or internal armed rebellion, the President can declare a National Emergency. During this time, the Centre gets more powers and Fundamental Rights can be suspended. India has seen National Emergency three times: 1962 (China war), 1971 (Pakistan war), and 1975–77 (internal disturbance under Indira Gandhi).",
+          "contentHi": "यदि राष्ट्रपति को समाधान हो जाए कि गंभीर आपात विद्यमान है जिससे युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह के कारण भारत या उसके किसी भाग की सुरक्षा को खतरा है, तो वह उद्घोषणा द्वारा उस आशय की घोषणा कर सकता है।\n\nसरल शब्दों में: अगर युद्ध, विदेशी हमले या सशस्त्र विद्रोह से देश की सुरक्षा खतरे में हो तो राष्ट्रीय आपात लागू हो सकती है। भारत में तीन बार राष्ट्रीय आपात लगी: 1962, 1971 और 1975-77।"
+        },
+        {
+          "id": "art_356",
+          "number": "356",
+          "titleEn": "President's Rule in States",
+          "titleHi": "राज्यों में राष्ट्रपति शासन",
+          "contentEn": "If the President, on receipt of a report from the Governor of a State or otherwise, is satisfied that the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation assume to himself all or any of the functions of the Government of the State.\n\nIn simple words: If a state government fails to function according to the Constitution — due to political crisis, natural disaster, or constitutional breakdown — President's Rule can be imposed. The state government is dismissed and the state is run directly by the Central Government through the Governor. This is also called 'State Emergency' or 'Constitutional Emergency.'",
+          "contentHi": "यदि राष्ट्रपति को किसी राज्य के राज्यपाल के प्रतिवेदन पर या अन्यथा यह समाधान हो जाए कि उस राज्य का शासन इस संविधान के उपबंधों के अनुसार नहीं चलाया जा सकता, तो राष्ट्रपति उद्घोषणा द्वारा उस राज्य सरकार के कार्य अपने हाथ में ले सकता है।\n\nसरल शब्दों में: अगर किसी राज्य की सरकार संविधान के अनुसार काम नहीं कर सकती तो राष्ट्रपति शासन लगाया जा सकता है। राज्य सरकार बर्खास्त होती है और केंद्र सीधे राज्यपाल के माध्यम से शासन करता है।"
+        },
+        {
+          "id": "art_360",
+          "number": "360",
+          "titleEn": "Financial Emergency",
+          "titleHi": "वित्तीय आपात",
+          "contentEn": "If the President is satisfied that a situation has arisen whereby the financial stability or credit of India or of any part thereof is threatened, he may by a Proclamation make a declaration to that effect.\n\nIn simple words: If India's financial stability is in severe danger, the President can declare a Financial Emergency. The Centre can then give directions to states about financial matters, reduce salaries of government employees, and the High Court/Supreme Court judges' salaries can be reduced. Importantly, a Financial Emergency has NEVER been declared in India's history.",
+          "contentHi": "यदि राष्ट्रपति को समाधान हो जाए कि ऐसी स्थिति उत्पन्न हो गई है जिससे भारत या उसके किसी भाग की वित्तीय स्थिरता या साख को खतरा है, तो वह उद्घोषणा द्वारा उस आशय की घोषणा कर सकता है।\n\nसरल शब्दों में: भारत की वित्तीय स्थिरता खतरे में हो तो वित्तीय आपात लागू हो सकती है। महत्वपूर्ण तथ्य: भारत में अभी तक कभी भी वित्तीय आपात नहीं लगी।"
+        }
+      ]
+    },
+    {
+      "id": "part20",
+      "titleEn": "Amendment of the Constitution",
+      "titleHi": "संविधान का संशोधन",
+      "descriptionEn": "Article 368 — How to amend the Constitution",
+      "descriptionHi": "अनुच्छेद 368 — संविधान में संशोधन कैसे होता है",
+      "partNumber": "XX",
+      "iconName": "ic_amendment",
+      "articles": [
+        {
+          "id": "art_368",
+          "number": "368",
+          "titleEn": "Power of Parliament to Amend the Constitution",
+          "titleHi": "संविधान का संशोधन करने की संसद की शक्ति और उसके लिए प्रक्रिया",
+          "contentEn": "Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article.\n\nA constitutional amendment bill must be passed by each House of Parliament by:\n(a) A majority of the total membership of that House; AND\n(b) By a majority of not less than two-thirds of the members present and voting.\n\nFor certain provisions (like federalism, elections, emergency powers), the amendment must also be ratified by the Legislatures of not less than one-half of the States.\n\nThe President must give assent to such a Bill.\n\nThe Supreme Court in Kesavananda Bharati case (1973) ruled that Parliament cannot amend the 'Basic Structure' of the Constitution.\n\nIn simple words: Parliament can change the Constitution but needs a 2/3 majority of members present and voting PLUS majority of total membership. For some very important changes, at least half the state assemblies must also agree. However, Parliament cannot destroy the 'Basic Structure' of the Constitution — democracy, secularism, fundamental rights etc. must always remain.",
+          "contentHi": "संसद अपनी संविधायी शक्ति के प्रयोग में इस अनुच्छेद में उपबंधित प्रक्रिया के अनुसार संविधान के किसी उपबंध का संशोधन, परिवर्धन, परिवर्तन या निरसन कर सकती है।\n\nसंशोधन विधेयक को प्रत्येक सदन में सदन की कुल सदस्यता के बहुमत से और उपस्थित व मत देने वाले सदस्यों के दो-तिहाई बहुमत से पारित करना होगा।\n\nसुप्रीम कोर्ट ने केशवानंद भारती मामले (1973) में कहा था कि संसद संविधान की 'मूल संरचना' में संशोधन नहीं कर सकती।\n\nसरल शब्दों में: संविधान बदलने के लिए संसद में 2/3 बहुमत चाहिए। कुछ महत्वपूर्ण बदलावों के लिए आधे राज्यों की मंजूरी भी जरूरी है। 'मूल संरचना' (लोकतंत्र, धर्मनिरपेक्षता आदि) को नहीं बदला जा सकता।"
+        }
+      ]
+    },
+    {
+      "id": "schedules",
+      "titleEn": "Schedules of the Constitution",
+      "titleHi": "संविधान की अनुसूचियाँ",
+      "descriptionEn": "12 Schedules providing supplementary details",
+      "descriptionHi": "12 अनुसूचियाँ जो विस्तृत जानकारी देती हैं",
+      "partNumber": "",
+      "iconName": "ic_schedules",
+      "articles": [
+        {
+          "id": "schedule_1",
+          "number": "1st",
+          "titleEn": "First Schedule — States and Union Territories",
+          "titleHi": "पहली अनुसूची — राज्य और केंद्र-शासित प्रदेश",
+          "contentEn": "Lists all the States and Union Territories of India and their territories.\n\nCurrently India has 28 States and 8 Union Territories.\n\nStates: Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal.\n\nUnion Territories: Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Delhi (NCT), Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry.\n\nIn simple words: This schedule simply lists all the states and Union Territories of India. It's updated whenever states are reorganised or new states are created.",
+          "contentHi": "यह सभी राज्यों और केंद्र-शासित प्रदेशों की सूची है।\n\nवर्तमान में भारत में 28 राज्य और 8 केंद्र-शासित प्रदेश हैं।\n\nराज्य: आंध्र प्रदेश, अरुणाचल प्रदेश, असम, बिहार, छत्तीसगढ़, गोवा, गुजरात, हरियाणा, हिमाचल प्रदेश, झारखंड, कर्नाटक, केरल, मध्य प्रदेश, महाराष्ट्र, मणिपुर, मेघालय, मिजोरम, नागालैंड, ओडिशा, पंजाब, राजस्थान, सिक्किम, तमिलनाडु, तेलंगाना, त्रिपुरा, उत्तर प्रदेश, उत्तराखंड, पश्चिम बंगाल।\n\nकेंद्र-शासित प्रदेश: अंडमान-निकोबार द्वीप समूह, चंडीगढ़, दादरा-नगर हवेली और दमन-दीव, दिल्ली (NCT), जम्मू-कश्मीर, लद्दाख, लक्षद्वीप, पुदुच्चेरी।"
+        },
+        {
+          "id": "schedule_7",
+          "number": "7th",
+          "titleEn": "Seventh Schedule — Division of Powers",
+          "titleHi": "सातवीं अनुसूची — शक्तियों का विभाजन",
+          "contentEn": "Contains three lists that divide legislative powers between Parliament and State Legislatures:\n\nList I — Union List (97 subjects): Parliament alone can make laws. Includes: Defence, Foreign Affairs, Atomic Energy, Railways, Banking, Insurance, Currency, Post & Telegraph, Census, etc.\n\nList II — State List (66 subjects): States alone can make laws. Includes: Public Order, Police, Public Health, Agriculture, Land, Local Government, Fisheries, State Taxes, etc.\n\nList III — Concurrent List (47 subjects): Both Parliament and States can make laws, but Parliament's law prevails in case of conflict. Includes: Education, Marriage and Divorce, Bankruptcy, Forests, Protection of Wild Animals, Labour Laws, Criminal Law, etc.\n\nIn simple words: This schedule shows who makes what laws in India. It's the key to understanding Indian federalism. The number of subjects in each list has been changed several times — for example, Education was moved from the State List to the Concurrent List by the 42nd Amendment in 1976.",
+          "contentHi": "इसमें तीन सूचियाँ हैं जो केंद्र और राज्यों के बीच विधायी शक्तियाँ बाँटती हैं:\n\nसूची I — केंद्र सूची (97 विषय): केवल संसद कानून बना सकती है। इसमें शामिल हैं: रक्षा, विदेशी मामले, परमाणु ऊर्जा, रेलवे, बैंकिंग, बीमा, मुद्रा, डाक-तार, जनगणना आदि।\n\nसूची II — राज्य सूची (66 विषय): केवल राज्य कानून बना सकते हैं। इसमें शामिल हैं: सार्वजनिक व्यवस्था, पुलिस, जन स्वास्थ्य, कृषि, भूमि, स्थानीय सरकार, मछली पालन, राज्य कर आदि।\n\nसूची III — समवर्ती सूची (47 विषय): दोनों कानून बना सकते हैं। शिक्षा, विवाह-तलाक, दिवालियापन, वन, श्रम कानून, आपराधिक कानून आदि।"
+        },
+        {
+          "id": "schedule_10",
+          "number": "10th",
+          "titleEn": "Tenth Schedule — Anti-Defection Law",
+          "titleHi": "दसवीं अनुसूची — दल-बदल विरोधी कानून",
+          "contentEn": "Added by the 52nd Amendment Act, 1985. Contains provisions for disqualification of members of Parliament and State Legislatures on grounds of defection.\n\nA member is disqualified if: (a) they voluntarily give up membership of their political party, or (b) they vote or abstain from voting in the legislature contrary to the direction of their party.\n\nException: A merger is not defection if at least two-thirds of the members of the legislative party agree to the merger.\n\nIn simple words: This law prevents the 'Aaya Ram Gaya Ram' politics — where politicians would frequently switch parties for money or power. If an elected member leaves their party or votes against the party whip, they can be disqualified from their seat. This protects party discipline and government stability.",
+          "contentHi": "52वें संशोधन अधिनियम, 1985 द्वारा जोड़ी गई। इसमें संसद और राज्य विधानमंडलों के सदस्यों को दल-बदल के आधार पर अयोग्य ठहराने के प्रावधान हैं।\n\nसदस्य अयोग्य होगा यदि वह: (क) अपनी पार्टी की सदस्यता स्वेच्छा से छोड़ता है, या (ख) पार्टी के निर्देश के विरुद्ध मतदान करता है।\n\nसरल शब्दों में: यह कानून 'आया राम गया राम' की राजनीति रोकता है। अगर कोई निर्वाचित सदस्य पार्टी छोड़ता है या पार्टी के खिलाफ वोट करता है तो उसकी सीट जा सकती है।"
+        }
+      ]
+    },
+    {
+      "id": "key_amendments",
+      "titleEn": "Key Constitutional Amendments",
+      "titleHi": "प्रमुख संवैधानिक संशोधन",
+      "descriptionEn": "Most important amendments that shaped modern India",
+      "descriptionHi": "महत्वपूर्ण संशोधन जिन्होंने आधुनिक भारत को आकार दिया",
+      "partNumber": "",
+      "iconName": "ic_amendments_list",
+      "articles": [
+        {
+          "id": "amend_1",
+          "number": "1st",
+          "titleEn": "1st Amendment (1951) — Restrictions on Free Speech",
+          "titleHi": "पहला संशोधन (1951) — वाक् स्वतंत्रता पर प्रतिबंध",
+          "contentEn": "The First Constitutional Amendment Act, 1951, made the following key changes:\n1. Added the right to impose 'reasonable restrictions' on freedom of speech on grounds of public order and relations with friendly foreign states.\n2. Validated zamindari abolition laws by placing them in the Ninth Schedule (protected from judicial review).\n3. Added Article 31A and 31B to protect land reform laws.\n\nIn simple words: This amendment came quickly after the Constitution was adopted because courts had struck down some laws restricting speech. It also protected land reform laws that were redistributing land from zamindars (big landlords) to farmers.",
+          "contentHi": "पहले संशोधन ने मुख्य रूप से: 1. वाक् स्वतंत्रता पर सार्वजनिक व्यवस्था के आधार पर 'उचित प्रतिबंध' लगाने का प्रावधान किया। 2. जमींदारी उन्मूलन कानूनों को नौवीं अनुसूची में रखकर न्यायिक समीक्षा से बचाया।\n\nसरल शब्दों में: यह संशोधन संविधान लागू होने के तुरंत बाद आया क्योंकि अदालतें कुछ कानूनों को रद्द कर रही थीं। इससे जमींदारी उन्मूलन और भूमि सुधार कानूनों को भी बचाया गया।"
+        },
+        {
+          "id": "amend_42",
+          "number": "42nd",
+          "titleEn": "42nd Amendment (1976) — Mini Constitution",
+          "titleHi": "42वाँ संशोधन (1976) — लघु संविधान",
+          "contentEn": "The 42nd Constitutional Amendment Act, 1976 (during Emergency under Indira Gandhi) was the most comprehensive amendment and is called the 'Mini Constitution'. Key changes:\n1. Added 'Socialist' and 'Secular' to the Preamble.\n2. Added Fundamental Duties (Part IV-A, Article 51A).\n3. Education moved from State List to Concurrent List.\n4. Made Directive Principles superior to Fundamental Rights.\n5. Extended the term of Lok Sabha and state assemblies from 5 to 6 years.\n6. Added 'Integrity of India' to the Preamble.\n7. Curtailed powers of judiciary and High Courts.\n\nNote: Many of these changes were later reversed by the 44th Amendment.\n\nIn simple words: This was the biggest-ever amendment, passed during the Emergency when democratic processes were suppressed. It added key words to the Preamble and introduced Fundamental Duties. However, some of its controversial provisions were later undone.",
+          "contentHi": "42वाँ संशोधन (1976) सबसे व्यापक संशोधन था जिसे 'लघु संविधान' कहा गया। मुख्य बदलाव: 1. प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द जोड़े। 2. मूल कर्तव्य (अनुच्छेद 51A) जोड़े। 3. शिक्षा को राज्य सूची से समवर्ती सूची में किया। 4. लोकसभा का कार्यकाल 5 से 6 वर्ष किया।\n\nसरल शब्दों में: यह सबसे बड़ा संशोधन था, आपातकाल के दौरान पारित हुआ। इसने प्रस्तावना में महत्वपूर्ण शब्द जोड़े और मूल कर्तव्य लागू किए।"
+        },
+        {
+          "id": "amend_44",
+          "number": "44th",
+          "titleEn": "44th Amendment (1978) — Restoring Democracy",
+          "titleHi": "44वाँ संशोधन (1978) — लोकतंत्र की बहाली",
+          "contentEn": "The 44th Amendment Act, 1978, was passed by the Janata Party government after Emergency ended. It reversed many controversial 42nd Amendment changes:\n1. Restored the term of Lok Sabha and assemblies to 5 years.\n2. Removed 'Right to Property' from Fundamental Rights (made it Article 300A).\n3. The President cannot proclaim National Emergency just on 'internal disturbance' — now requires 'armed rebellion'.\n4. Emergency must be approved by Cabinet in writing before it is proclaimed.\n5. Emergency can be revoked by Lok Sabha passing a resolution with simple majority.\n6. Press freedom strengthened.\n\nIn simple words: After the Emergency ended, the new Janata government corrected many of the undemocratic changes made during Emergency. The most notable change was making property no longer a Fundamental Right, which allowed land reform laws.",
+          "contentHi": "44वाँ संशोधन (1978) जनता पार्टी सरकार ने आपातकाल के बाद पारित किया। मुख्य बदलाव: 1. लोकसभा का कार्यकाल वापस 5 साल किया। 2. संपत्ति के अधिकार को मूल अधिकारों से हटाया। 3. 'आंतरिक अशांति' की जगह 'सशस्त्र विद्रोह' पर आपात लागू होगी। 4. कैबिनेट की लिखित सलाह पर ही आपात लगेगी।\n\nसरल शब्दों में: आपातकाल के बाद जनता सरकार ने अलोकतांत्रिक बदलावों को ठीक किया। सबसे बड़ा बदलाव था — संपत्ति का अधिकार मूल अधिकार नहीं रहा।"
+        },
+        {
+          "id": "amend_73",
+          "number": "73rd",
+          "titleEn": "73rd Amendment (1992) — Panchayati Raj",
+          "titleHi": "73वाँ संशोधन (1992) — पंचायती राज",
+          "contentEn": "The 73rd Constitutional Amendment Act, 1992 gave constitutional status to the Panchayati Raj Institutions:\n1. Added Part IX (Articles 243–243O) to the Constitution.\n2. Added 11th Schedule listing 29 functions of Panchayats.\n3. Mandatory elections to Panchayats every 5 years.\n4. Reservation for SC, ST, and Women (at least 1/3) in Panchayats.\n5. State Election Commissions to conduct Panchayat elections.\n6. State Finance Commissions to give funds to Panchayats.\n\nIn simple words: This amendment strengthened village-level democracy. It made village Panchayats constitutional bodies with regular elections, and reserved seats for SC/ST communities and women — ensuring at least one-third of village leaders are women.",
+          "contentHi": "73वाँ संशोधन (1992) ने पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया: 1. संविधान में भाग IX (अनुच्छेद 243-243O) जोड़ा। 2. पंचायतों के 29 कार्यों की 11वीं अनुसूची जोड़ी। 3. हर 5 साल में अनिवार्य पंचायत चुनाव। 4. SC, ST और महिलाओं के लिए (कम से कम 1/3) आरक्षण।\n\nसरल शब्दों में: इस संशोधन ने ग्राम स्तरीय लोकतंत्र को मजबूत किया। पंचायतों में नियमित चुनाव और महिलाओं के लिए आरक्षण सुनिश्चित किया।"
+        },
+        {
+          "id": "amend_86",
+          "number": "86th",
+          "titleEn": "86th Amendment (2002) — Right to Education",
+          "titleHi": "86वाँ संशोधन (2002) — शिक्षा का अधिकार",
+          "contentEn": "The 86th Constitutional Amendment Act, 2002 made three key changes:\n1. Inserted Article 21A making free and compulsory education a Fundamental Right for children aged 6–14.\n2. Changed Article 45 (Directive Principle) to now focus on early childhood care for children below 6 years.\n3. Added Fundamental Duty (Article 51A(k)) requiring parents to provide opportunities for education to their children aged 6–14.\n\nThe Right to Education (RTE) Act, 2009 was passed to implement Article 21A.\n\nIn simple words: This amendment made education a fundamental right for every child aged 6 to 14. The government must provide free schooling and private schools must reserve 25% of seats for economically weaker sections.",
+          "contentHi": "86वाँ संशोधन (2002) ने तीन महत्वपूर्ण बदलाव किए: 1. अनुच्छेद 21A जोड़कर 6-14 साल के बच्चों को मुफ्त और अनिवार्य शिक्षा का मूल अधिकार दिया। 2. अनुच्छेद 45 में बदलाव कर 6 साल से कम के बच्चों की देखभाल पर ध्यान दिया। 3. माता-पिता का कर्तव्य (51A-क) जोड़ा।\n\nसरल शब्दों में: इस संशोधन से 6 से 14 साल के हर बच्चे को मुफ्त शिक्षा का मूल अधिकार मिला। शिक्षा का अधिकार अधिनियम, 2009 इसी के तहत बना।"
+        }
+      ]
+    }
+  ]
+}

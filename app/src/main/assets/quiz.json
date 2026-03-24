@@ -1,0 +1,424 @@
+{
+  "quizSets": [
+    {
+      "id": "set_1",
+      "nameEn": "Introduction & Preamble",
+      "nameHi": "प्रस्तावना और परिचय",
+      "questions": [
+        {
+          "questionEn": "When was the Constitution of India adopted by the Constituent Assembly?",
+          "questionHi": "संविधान सभा द्वारा भारत के संविधान को कब अपनाया गया था?",
+          "optionsEn": ["15 August 1947", "26 November 1949", "26 January 1950", "2 October 1952"],
+          "optionsHi": ["15 अगस्त 1947", "26 नवम्बर 1949", "26 जनवरी 1950", "2 अक्टूबर 1952"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Which words were added to the Preamble by the 42nd Amendment Act, 1976?",
+          "questionHi": "42वें संशोधन अधिनियम, 1976 द्वारा प्रस्तावना में कौन से शब्द जोड़े गए थे?",
+          "optionsEn": ["Sovereign, Democratic", "Socialist, Secular, Integrity", "Justice, Liberty", "Republic, Equality"],
+          "optionsHi": ["प्रभुत्व संपन्न, लोकतांत्रिक", "समाजवादी, पंथनिरपेक्ष, अखंडता", "न्याय, स्वतंत्रता", "गणराज्य, समता"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Who is known as the 'Architect of the Indian Constitution'?",
+          "questionHi": "भारतीय संविधान का 'वास्तुकार' किसे कहा जाता है?",
+          "optionsEn": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+          "optionsHi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "डॉ. बी.आर. अम्बेडकर", "सरदार पटेल"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "The Preamble of the Indian Constitution is based on the 'Objectives Resolution' drafted by:",
+          "questionHi": "भारतीय संविधान की प्रस्तावना किसके द्वारा तैयार किए गए 'उद्देश्य प्रस्ताव' पर आधारित है?",
+          "optionsEn": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "B.N. Rau", "Dr. B.R. Ambedkar"],
+          "optionsHi": ["डॉ. राजेंद्र प्रसाद", "जवाहरलाल नेहरू", "बी.एन. राव", "डॉ. बी.आर. अम्बेडकर"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "India is a 'Republic'. What does this mean?",
+          "questionHi": "भारत एक 'गणराज्य' है। इसका क्या अर्थ है?",
+          "optionsEn": ["The country is democratic", "The head of state is elected", "Parliament is supreme", "Judiciary is independent"],
+          "optionsHi": ["देश लोकतांत्रिक है", "राष्ट्र का प्रमुख निर्वाचित होता है", "संसद सर्वोच्च है", "न्यायपालिका स्वतंत्र है"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_2",
+      "nameEn": "The Union & Citizenship",
+      "nameHi": "संघ और नागरिकता",
+      "questions": [
+        {
+          "questionEn": "Which Article defines India as a 'Union of States'?",
+          "questionHi": "कौन सा अनुच्छेद भारत को 'राज्यों का संघ' परिभाषित करता है?",
+          "optionsEn": ["Article 1", "Article 2", "Article 3", "Article 5"],
+          "optionsHi": ["अनुच्छेद 1", "अनुच्छेद 2", "अनुच्छेद 3", "अनुच्छेद 5"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionEn": "Which body has the power to admit new states into the Union or establish new states?",
+          "questionHi": "किस संस्था के पास संघ में नए राज्यों को शामिल करने या नए राज्य स्थापित करने की शक्ति है?",
+          "optionsEn": ["President", "Prime Minister", "Parliament", "Supreme Court"],
+          "optionsHi": ["राष्ट्रपति", "प्रधानमंत्री", "संसद", "उच्चतम न्यायालय"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Articles 5 to 11 of the Constitution deal with:",
+          "questionHi": "संविधान के अनुच्छेद 5 से 11 किससे संबंधित हैं?",
+          "optionsEn": ["Fundamental Rights", "Citizenship", "The Union Executive", "Panchayati Raj"],
+          "optionsHi": ["मौलिक अधिकार", "नागरिकता", "संघ की कार्यपालिका", "पंचायती राज"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Does India allow dual citizenship?",
+          "questionHi": "क्या भारत दोहरी नागरिकता की अनुमति देता है?",
+          "optionsEn": ["Yes", "No", "Only for NRIs", "Only for some countries"],
+          "optionsHi": ["हाँ", "नहीं", "केवल अनिवासी भारतीयों के लिए", "केवल कुछ देशों के लिए"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Under which Article can Parliament regulate the right of citizenship by law?",
+          "questionHi": "किस अनुच्छेद के तहत संसद कानून द्वारा नागरिकता के अधिकार को विनियमित कर सकती है?",
+          "optionsEn": ["Article 8", "Article 9", "Article 10", "Article 11"],
+          "optionsHi": ["अनुच्छेद 8", "अनुच्छेद 9", "अनुच्छेद 10", "अनुच्छेद 11"],
+          "correctOptionIndex": 3
+        }
+      ]
+    },
+    {
+      "id": "set_3",
+      "nameEn": "Fundamental Rights - Part I",
+      "nameHi": "मौलिक अधिकार - भाग I",
+      "questions": [
+        {
+          "questionEn": "Which Article guarantees 'Equality before Law'?",
+          "questionHi": "कौन सा अनुच्छेद 'विधि के समक्ष समता' की गारंटी देता है?",
+          "optionsEn": ["Article 14", "Article 15", "Article 16", "Article 17"],
+          "optionsHi": ["अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionEn": "Abolition of Untouchability is provided under which Article?",
+          "questionHi": "अस्पृश्यता का उन्मूलन किस अनुच्छेद के तहत प्रदान किया गया है?",
+          "optionsEn": ["Article 15", "Article 16", "Article 17", "Article 18"],
+          "optionsHi": ["अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17", "अनुच्छेद 18"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Which Article prohibits discrimination on grounds only of religion, race, caste, sex or place of birth?",
+          "questionHi": "कौन सा अनुच्छेद केवल धर्म, मूलवंश, जाति, लिंग या जन्मस्थान के आधार पर भेदभाव का प्रतिषेध करता है?",
+          "optionsEn": ["Article 13", "Article 14", "Article 15", "Article 21"],
+          "optionsHi": ["अनुच्छेद 13", "अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 21"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Article 16 provides equality of opportunity in:",
+          "questionHi": "अनुच्छेद 16 किसमें अवसर की समता प्रदान करता है?",
+          "optionsEn": ["Education", "Public Employment", "Religion", "Elections"],
+          "optionsHi": ["शिक्षा", "लोक नियोजन (सरकारी नौकरी)", "धर्म", "चुनाव"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Under Article 18, which type of titles can be conferred by the State?",
+          "questionHi": "अनुच्छेद 18 के तहत, राज्य द्वारा किस प्रकार की उपाधियाँ प्रदान की जा सकती हैं?",
+          "optionsEn": ["Royal Titles", "Military and Academic", "Hereditary Titles", "None"],
+          "optionsHi": ["शाही उपाधियाँ", "सैन्य और शैक्षणिक", "वंशानुगत उपाधियाँ", "कोई नहीं"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_4",
+      "nameEn": "Fundamental Rights - Part II",
+      "nameHi": "मौलिक अधिकार - भाग II",
+      "questions": [
+        {
+          "questionEn": "Which Article is described as the 'Protection of Life and Personal Liberty'?",
+          "questionHi": "किस अनुच्छेद को 'प्राण और दैहिक स्वतंत्रता का संरक्षण' के रूप में वर्णित किया गया है?",
+          "optionsEn": ["Article 19", "Article 20", "Article 21", "Article 22"],
+          "optionsHi": ["अनुच्छेद 19", "अनुच्छेद 20", "अनुच्छेद 21", "अनुच्छेद 22"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Article 21A, which provides 'Right to Education', was added by which Amendment?",
+          "questionHi": "अनुच्छेद 21A, जो 'शिक्षा का अधिकार' प्रदान करता है, किस संशोधन द्वारा जोड़ा गया था?",
+          "optionsEn": ["42nd Amendment", "44th Amendment", "86th Amendment", "92nd Amendment"],
+          "optionsHi": ["42वाँ संशोधन", "44वाँ संशोधन", "86वाँ संशोधन", "92वाँ संशोधन"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "How many freedoms are guaranteed under Article 19?",
+          "questionHi": "अनुच्छेद 19 के तहत कितनी स्वतंत्रताओं की गारंटी दी गई है?",
+          "optionsEn": ["4", "5", "6", "7"],
+          "optionsHi": ["4", "5", "6", "7"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Protection against arrest and detention in certain cases is provided by:",
+          "questionHi": "कुछ दशाओं में गिरफ्तारी और निरोध से संरक्षण किसके द्वारा प्रदान किया जाता है?",
+          "optionsEn": ["Article 20", "Article 21", "Article 22", "Article 23"],
+          "optionsHi": ["अनुच्छेद 20", "अनुच्छेद 21", "अनुच्छेद 22", "अनुच्छेद 23"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Prohibition of child labour in factories is provided under:",
+          "questionHi": "कारखानों में बाल श्रम का प्रतिषेध किसके तहत प्रदान किया गया है?",
+          "optionsEn": ["Article 23", "Article 24", "Article 25", "Article 26"],
+          "optionsHi": ["अनुच्छेद 23", "अनुच्छेद 24", "अनुच्छेद 25", "अनुच्छेद 26"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_5",
+      "nameEn": "Fundamental Rights - Part III",
+      "nameHi": "मौलिक अधिकार - भाग III",
+      "questions": [
+        {
+          "questionEn": "Which Article is called the 'Heart and Soul of the Constitution' by Dr. Ambedkar?",
+          "questionHi": "डॉ. अम्बेडकर ने किस अनुच्छेद को 'संविधान का हृदय और आत्मा' कहा है?",
+          "optionsEn": ["Article 14", "Article 19", "Article 21", "Article 32"],
+          "optionsHi": ["अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21", "अनुच्छेद 32"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionEn": "The right to move the Supreme Court for enforcement of Fundamental Rights is under:",
+          "questionHi": "मौलिक अधिकारों के प्रवर्तन के लिए उच्चतम न्यायालय जाने का अधिकार किसके तहत है?",
+          "optionsEn": ["Article 32", "Article 226", "Article 131", "Article 143"],
+          "optionsHi": ["अनुच्छेद 32", "अनुच्छेद 226", "अनुच्छेद 131", "अनुच्छेद 143"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionEn": "Which writ is issued to release a person who has been detained unlawfully?",
+          "questionHi": "अवैध रूप से हिरासत में लिए गए व्यक्ति को रिहा करने के लिए कौन सी रिट जारी की जाती है?",
+          "optionsEn": ["Mandamus", "Habeas Corpus", "Certiorari", "Quo Warranto"],
+          "optionsHi": ["परमादेश (Mandamus)", "बंदी प्रत्यक्षीकरण (Habeas Corpus)", "उत्प्रेषण (Certiorari)", "अधिकार पृच्छा (Quo Warranto)"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Freedom of conscience and free profession, practice and propagation of religion is under:",
+          "questionHi": "अंतःकरण की और धर्म के अबाध रूप से मानने, आचरण और प्रचार करने की स्वतंत्रता किसके तहत है?",
+          "optionsEn": ["Article 25", "Article 26", "Article 27", "Article 28"],
+          "optionsHi": ["अनुच्छेद 25", "अनुच्छेद 26", "अनुच्छेद 27", "अनुच्छेद 28"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionEn": "Right of minorities to establish and administer educational institutions is under:",
+          "questionHi": "शिक्षा संस्थाओं की स्थापना और प्रशासन करने का अल्पसंख्यक वर्गों का अधिकार किसके तहत है?",
+          "optionsEn": ["Article 29", "Article 30", "Article 31", "Article 32"],
+          "optionsHi": ["अनुच्छेद 29", "अनुच्छेद 30", "अनुच्छेद 31", "अनुच्छेद 32"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_6",
+      "nameEn": "Directive Principles (DPSP)",
+      "nameHi": "राज्य के नीति निदेशक तत्त्व",
+      "questions": [
+        {
+          "questionEn": "In which Part of the Constitution are Directive Principles of State Policy included?",
+          "questionHi": "संविधान के किस भाग में राज्य के नीति निदेशक तत्त्व शामिल हैं?",
+          "optionsEn": ["Part II", "Part III", "Part IV", "Part V"],
+          "optionsHi": ["भाग II", "भाग III", "भाग IV", "भाग V"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Which Article directs the state to organise Village Panchayats?",
+          "questionHi": "कौन सा अनुच्छेद राज्य को ग्राम पंचायतों को संगठित करने का निर्देश देता है?",
+          "optionsEn": ["Article 38", "Article 40", "Article 44", "Article 48"],
+          "optionsHi": ["अनुच्छेद 38", "अनुच्छेद 40", "अनुच्छेद 44", "अनुच्छेद 48"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Article 44 deals with:",
+          "questionHi": "अनुच्छेद 44 किससे संबंधित है?",
+          "optionsEn": ["Right to Work", "Uniform Civil Code", "Protection of Monuments", "Separation of Judiciary"],
+          "optionsHi": ["काम का अधिकार", "समान नागरिक संहिता (Uniform Civil Code)", "स्मारकों का संरक्षण", "न्यायपालिका का पृथक्करण"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Separation of judiciary from executive is mentioned in:",
+          "questionHi": "कार्यपालिका से न्यायपालिका के पृथक्करण का उल्लेख किसमें है?",
+          "optionsEn": ["Article 48", "Article 49", "Article 50", "Article 51"],
+          "optionsHi": ["अनुच्छेद 48", "अनुच्छेद 49", "अनुच्छेद 50", "अनुच्छेद 51"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Which Article promotes international peace and security?",
+          "questionHi": "कौन सा अनुच्छेद अंतर्राष्ट्रीय शांति और सुरक्षा को बढ़ावा देता है?",
+          "optionsEn": ["Article 50", "Article 51", "Article 51A", "Article 52"],
+          "optionsHi": ["अनुच्छेद 50", "अनुच्छेद 51", "अनुच्छेद 51A", "अनुच्छेद 52"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_7",
+      "nameEn": "Fundamental Duties",
+      "nameHi": "मौलिक कर्तव्य",
+      "questions": [
+        {
+          "questionEn": "Fundamental Duties were added by which Constitutional Amendment?",
+          "questionHi": "मौलिक कर्तव्य किस संवैधानिक संशोधन द्वारा जोड़े गए थे?",
+          "optionsEn": ["24th Amendment", "42nd Amendment", "44th Amendment", "86th Amendment"],
+          "optionsHi": ["24वाँ संशोधन", "42वाँ संशोधन", "44वाँ संशोधन", "86वाँ संशोधन"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "How many Fundamental Duties are currently listed in Article 51A?",
+          "questionHi": "वर्तमान में अनुच्छेद 51A में कितने मौलिक कर्तव्य सूचीबद्ध हैं?",
+          "optionsEn": ["8", "10", "11", "12"],
+          "optionsHi": ["8", "10", "11", "12"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Which committee recommended the inclusion of Fundamental Duties?",
+          "questionHi": "किस समिति ने मौलिक कर्तव्यों को शामिल करने की सिफारिश की थी?",
+          "optionsEn": ["Verma Committee", "Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee"],
+          "optionsHi": ["वर्मा समिति", "सरकारिया आयोग", "स्वर्ण सिंह समिति", "बलवंत राय मेहता समिति"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "The 11th Fundamental Duty (education for child aged 6-14) was added by:",
+          "questionHi": "11वाँ मौलिक कर्तव्य (6-14 वर्ष के बच्चे की शिक्षा) किसके द्वारा जोड़ा गया था?",
+          "optionsEn": ["42nd Amendment", "44th Amendment", "86th Amendment", "93rd Amendment"],
+          "optionsHi": ["42वाँ संशोधन", "44वाँ संशोधन", "86वाँ संशोधन", "93वाँ संशोधन"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Fundamental Duties are applicable to:",
+          "questionHi": "मौलिक कर्तव्य किस पर लागू होते हैं?",
+          "optionsEn": ["All persons", "Only citizens", "Only government employees", "Only foreigners"],
+          "optionsHi": ["सभी व्यक्तियों पर", "केवल नागरिकों पर", "केवल सरकारी कर्मचारियों पर", "केवल विदेशियों पर"],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "set_8",
+      "nameEn": "The President & Vice-President",
+      "nameHi": "राष्ट्रपति और उपराष्ट्रपति",
+      "questions": [
+        {
+          "questionEn": "Who is the Supreme Commander of the Defence Forces of India?",
+          "questionHi": "भारत के रक्षा बलों का सर्वोच्च कमांडर कौन है?",
+          "optionsEn": ["Prime Minister", "Defence Minister", "Chief of Defence Staff", "President"],
+          "optionsHi": ["प्रधानमंत्री", "रक्षा मंत्री", "चीफ ऑफ डिफेंस स्टाफ", "राष्ट्रपति"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionEn": "Who elects the President of India?",
+          "questionHi": "भारत के राष्ट्रपति का चुनाव कौन करता है?",
+          "optionsEn": ["People directly", "Parliament only", "Electoral College (MP & MLA)", "Prime Minister"],
+          "optionsHi": ["जनता सीधे", "केवल संसद", "निर्वाचक मंडल (सांसद और विधायक)", "प्रधानमंत्री"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "What is the term of office for the President of India?",
+          "questionHi": "भारत के राष्ट्रपति के पद का कार्यकाल कितना है?",
+          "optionsEn": ["4 years", "5 years", "6 years", "Until age of 65"],
+          "optionsHi": ["4 वर्ष", "5 वर्ष", "6 वर्ष", "65 वर्ष की आयु तक"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Who is the ex-officio Chairman of the Rajya Sabha?",
+          "questionHi": "राज्यसभा का पदेन सभापति कौन होता है?",
+          "optionsEn": ["President", "Vice-President", "Speaker of Lok Sabha", "Prime Minister"],
+          "optionsHi": ["राष्ट्रपति", "उपराष्ट्रपति", "लोकसभा अध्यक्ष", "प्रधानमंत्री"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "Who administers the oath of office to the President of India?",
+          "questionHi": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?",
+          "optionsEn": ["Vice-President", "Prime Minister", "Chief Justice of India", "Speaker of Lok Sabha"],
+          "optionsHi": ["उपराष्ट्रपति", "प्रधानमंत्री", "भारत के मुख्य न्यायाधीश", "लोकसभा अध्यक्ष"],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "set_9",
+      "nameEn": "Parliament & Prime Minister",
+      "nameHi": "संसद और प्रधानमंत्री",
+      "questions": [
+        {
+          "questionEn": "Which House is known as the 'Council of States'?",
+          "questionHi": "किस सदन को 'राज्यों की परिषद' के रूप में जाना जाता है?",
+          "optionsEn": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Vidhan Parishad"],
+          "optionsHi": ["लोकसभा", "राज्यसभा", "विधानसभा", "विधान परिषद"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "The maximum gap between two sessions of Parliament cannot exceed:",
+          "questionHi": "संसद के दो सत्रों के बीच अधिकतम अंतर किससे अधिक नहीं हो सकता?",
+          "optionsEn": ["3 months", "4 months", "6 months", "1 year"],
+          "optionsHi": ["3 महीने", "4 महीने", "6 महीने", "1 वर्ष"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Who appoints the Prime Minister of India?",
+          "questionHi": "भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+          "optionsEn": ["Chief Justice", "President", "Speaker of Lok Sabha", "People"],
+          "optionsHi": ["मुख्य न्यायाधीश", "राष्ट्रपति", "लोकसभा अध्यक्ष", "जनता"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "A person must be a member of which body to become Prime Minister?",
+          "questionHi": "प्रधानमंत्री बनने के लिए व्यक्ति को किस संस्था का सदस्य होना चाहिए?",
+          "optionsEn": ["Lok Sabha only", "Rajya Sabha only", "Either House of Parliament", "Vidhan Sabha"],
+          "optionsHi": ["केवल लोकसभा", "केवल राज्यसभा", "संसद का कोई भी सदन", "विधानसभा"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Money Bills can be introduced only in:",
+          "questionHi": "धन विधेयक केवल कहाँ पेश किए जा सकते हैं?",
+          "optionsEn": ["Lok Sabha", "Rajya Sabha", "Joint Session", "Either House"],
+          "optionsHi": ["लोकसभा", "राज्यसभा", "संयुक्त सत्र", "किसी भी सदन"],
+          "correctOptionIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "set_10",
+      "nameEn": "Elections & Amendments",
+      "nameHi": "चुनाव और संशोधन",
+      "questions": [
+        {
+          "questionEn": "Which Article provides for an Election Commission?",
+          "questionHi": "कौन सा अनुच्छेद निर्वाचन आयोग का प्रावधान करता है?",
+          "optionsEn": ["Article 320", "Article 324", "Article 326", "Article 330"],
+          "optionsHi": ["अनुच्छेद 320", "अनुच्छेद 324", "अनुच्छेद 326", "अनुच्छेद 330"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionEn": "The voting age was reduced from 21 to 18 years by which Amendment?",
+          "questionHi": "मतदान की आयु 21 से घटाकर 18 वर्ष किस संशोधन द्वारा की गई थी?",
+          "optionsEn": ["42nd Amendment", "44th Amendment", "61st Amendment", "73rd Amendment"],
+          "optionsHi": ["42वाँ संशोधन", "44वाँ संशोधन", "61वाँ संशोधन", "73वाँ संशोधन"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "Which Article gives Parliament the power to amend the Constitution?",
+          "questionHi": "कौन सा अनुच्छेद संसद को संविधान में संशोधन करने की शक्ति देता है?",
+          "optionsEn": ["Article 352", "Article 356", "Article 360", "Article 368"],
+          "optionsHi": ["अनुच्छेद 352", "अनुच्छेद 356", "अनुच्छेद 360", "अनुच्छेद 368"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionEn": "The 'Anti-Defection Law' is contained in which Schedule?",
+          "questionHi": "'दल-बदल विरोधी कानून' किस अनुसूची में निहित है?",
+          "optionsEn": ["8th Schedule", "9th Schedule", "10th Schedule", "12th Schedule"],
+          "optionsHi": ["8वीं अनुसूची", "9वीं अनुसूची", "10वीं अनुसूची", "12वीं अनुसूची"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionEn": "National Emergency due to war or external aggression is declared under:",
+          "questionHi": "युद्ध या बाहरी आक्रमण के कारण राष्ट्रीय आपातकाल किसके तहत घोषित किया जाता है?",
+          "optionsEn": ["Article 352", "Article 356", "Article 360", "Article 368"],
+          "optionsHi": ["अनुच्छेद 352", "अनुच्छेद 356", "अनुच्छेद 360", "अनुच्छेद 368"],
+          "correctOptionIndex": 0
+        }
+      ]
+    }
+  ]
+}

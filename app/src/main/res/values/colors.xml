@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors (Indian tri-color inspired) -->
+    <color name="saffron">#FF9933</color>
+    <color name="india_white">#FFFFFF</color>
+    <color name="india_green">#138808</color>
+    <color name="navy_blue">#000080</color>
+    <color name="ashoka_blue">#06038D</color>
+    <color name="gold_chakra">#D4AF37</color>
+    <color name="deep_navy">#0D1B2A</color>
+
+    <!-- App theme colors -->
+    <color name="primary">#0D1B2A</color>
+    <color name="primary_dark">#08121C</color>
+    <color name="primary_light">#1B263B</color>
+    <color name="accent">#D4AF37</color>
+    <color name="nav_arrow">@color/primary</color>
+
+    <!-- Theme-aware colors -->
+    <color name="article_label">@color/primary</color>
+    <color name="article_badge_bg">@color/primary</color>
+    <color name="article_badge_text">@color/white</color>
+
+    <!-- Background colors -->
+    <color name="background">#F0F2F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Category color strips -->
+    <color name="cat_orange">#F97316</color>
+    <color name="cat_blue">#3B82F6</color>
+    <color name="cat_green">#22C55E</color>
+    <color name="cat_purple">#A855F7</color>
+    <color name="cat_red">#EF4444</color>
+    <color name="cat_teal">#14B8A6</color>
+    <color name="cat_amber">#F59E0B</color>
+    <color name="cat_indigo">#6366F1</color>
+    <color name="cat_pink">#EC4899</color>
+    <color name="cat_cyan">#06B6D4</color>
+    <color name="cat_lime">#84CC16</color>
+    <color name="cat_brown">#92400E</color>
+</resources>
